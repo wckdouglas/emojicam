@@ -79,7 +79,9 @@ def make_dataset(n_cpus=4):
 
     dataset = []
     with WorkerPool(n_jobs=n_cpus) as p:
-        for res in p.imap(make_mutate_image, params, progress_bar=True):
+        for res in p.imap(
+            make_mutate_image, params, progress_bar=True, progress_bar_options={"desc": "Collecting images"}
+        ):
             dataset.extend(res)
 
     return emoji_dict, dataset

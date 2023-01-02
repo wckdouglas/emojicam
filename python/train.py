@@ -30,12 +30,6 @@ def plot_loss(figname: str, losses: npt.ArrayLike):
     fig.savefig(figname)
 
 
-@jit
-def forward_loss(model, params, x, Y):
-    pred_y = model.apply(params, x)
-    return sum(optax.softmax_cross_entropy(y1, y2) for y1, y2 in zip(pred_y, Y))
-
-
 def main():
     emoji_dict, dataset = make_dataset(n_cpus=2)
     n_classes = max(emoji.index for emoji in emoji_dict.values())
@@ -48,12 +42,17 @@ def main():
     opt_state = optimizer.init(params)
     losses = np.zeros(EPOCH)
 
-    for i in tqdm.tqdm(range(EPOCH)):
+    @jit
+    def forward_loss(params, x, Y):
+        pred_y = model.apply(params, x)
+        return sum(optax.softmax_cross_entropy(y1, y2) for y1, y2 in zip(pred_y, Y))
+
+    for i in tqdm.tqdm(range(EPOCH), desc="Training NN"):
         labels, X = zip(*sample(dataset, k=MINIBATCH_SIZE))
         y = [label.index for label in labels]
         Y = one_hot(y, n_classes)
         X = jnp.array(X)
-        loss, grads = value_and_grad(forward_loss)(model, params, X, Y)
+        loss, grads = value_and_grad(forward_loss)(params, X, Y)
         updates, opt_state = optimizer.update(grads, opt_state)
         params = optax.apply_updates(params, updates)
         losses[i] = loss
