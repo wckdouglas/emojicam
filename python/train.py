@@ -1,6 +1,7 @@
 import logging
 import pickle
 
+logging.basicConfig(level=logging.INFO)
 import jax.numpy as jnp
 import matplotlib.pyplot as plt
 import numpy as np
@@ -19,8 +20,6 @@ from jax.nn import one_hot
 from make_dataset import make_dataset
 from model import EmojiClassifier
 from more_itertools import sample
-
-logging.basicConfig(level=logging.INFO)
 
 
 def plot_loss(figname: str, losses: npt.ArrayLike):

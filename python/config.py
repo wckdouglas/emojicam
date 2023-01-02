@@ -1,7 +1,6 @@
 import logging
 from pathlib import Path
 
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("Emoji")
 
 IMG_SIZE = (50, 50, 3)
