@@ -1,7 +1,10 @@
+import json
 import logging
 import pickle
 
 logging.basicConfig(level=logging.INFO)
+import dataclasses
+
 import jax.numpy as jnp
 import matplotlib.pyplot as plt
 import numpy as np
@@ -22,6 +25,13 @@ from model import EmojiClassifier
 from more_itertools import sample
 
 
+class EnhancedJSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if dataclasses.is_dataclass(o):
+            return dataclasses.asdict(o)
+        return super().default(o)
+
+
 def plot_loss(figname: str, losses: npt.ArrayLike):
     fig = plt.figure()
     ax = fig.add_subplot(111)
@@ -31,6 +41,12 @@ def plot_loss(figname: str, losses: npt.ArrayLike):
 
 def main():
     emoji_dict, dataset = make_dataset(n_cpus=2)
+
+    encoded_json = TRAINING_STATE_OUTPUT_DIR / "encoded.json"
+    with encoded_json.open("w") as j:
+        json.dump(emoji_dict, fp=j, cls=EnhancedJSONEncoder, indent=2, ensure_ascii=False)
+    logger.info("Written encoder: %s", encoded_json)
+
     n_classes = max(emoji.index for emoji in emoji_dict.values())
 
     model = EmojiClassifier(n_target=n_classes)

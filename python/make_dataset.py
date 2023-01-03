@@ -1,16 +1,12 @@
-import logging
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Dict, List, Set, Tuple
 
 import numpy as np
 import numpy.typing as npt
-from config import MUTATION_PER_IMAGE, logger
+from config import BASE_DIR, MUTATION_PER_IMAGE, logger
 from image_modifier import mutate_image
 from mpire import WorkerPool
 from skimage import io
-
-BASE_DIR = Path("../")
 
 
 @dataclass
@@ -22,7 +18,7 @@ class Emoji:
 def index_emoji(emoji_set: Set[str]) -> Dict[str, Emoji]:
     emoji_dict = {}
     for i, emoji in enumerate(emoji_set):
-        unicode = f"0x${''.join(emoji.split('-'))}"
+        unicode = "".join(map(lambda x: chr(int(x, 16)), emoji.split("-")))
         emoji_dict[emoji] = Emoji(index=i, unicode=unicode)
     return emoji_dict
 
@@ -61,9 +57,11 @@ def make_dataset(n_cpus=4):
                 unicode = img_name_components[1]
             else:
                 unicode = img_name_components[2]
-            emoji_set.add(unicode)
-            unicode_list.append(unicode)
-            img_list.append(img)
+
+            if "-" not in unicode:
+                emoji_set.add(unicode)
+                unicode_list.append(unicode)
+                img_list.append(img)
     logger.info("Collected %i unmodified emoji", len(img_list))
 
     emoji_dict = index_emoji(emoji_set=emoji_set)

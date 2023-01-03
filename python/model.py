@@ -1,6 +1,4 @@
 import flax.linen as nn
-import optax
-from jax.example_libraries import optimizers, stax
 
 
 class EmojiClassifier(nn.Module):
