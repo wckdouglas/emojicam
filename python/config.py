@@ -3,7 +3,7 @@ from pathlib import Path
 
 logger = logging.getLogger("Emoji")
 
-IMG_SIZE = (36, 36, 3)
+IMG_SIZE = (72, 72, 3)
 MUTATION_PER_IMAGE = 32
 EPOCH = 800
 LEARNING_RATE = 0.01

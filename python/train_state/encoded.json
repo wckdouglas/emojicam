@@ -1,4394 +1,4394 @@
 {
-  "1f380": {
-    "index": 0,
-    "unicode": "🎀"
-  },
-  "1f62c": {
-    "index": 1,
-    "unicode": "😬"
-  },
-  "1f48e": {
-    "index": 2,
-    "unicode": "💎"
-  },
-  "1f995": {
-    "index": 3,
-    "unicode": "🦕"
-  },
-  "1f34e": {
-    "index": 4,
-    "unicode": "🍎"
-  },
-  "1f401": {
-    "index": 5,
-    "unicode": "🐁"
-  },
-  "267f": {
-    "index": 6,
-    "unicode": "♿"
-  },
-  "1f470": {
-    "index": 7,
-    "unicode": "👰"
-  },
-  "1f524": {
-    "index": 8,
-    "unicode": "🔤"
-  },
-  "1f45f": {
-    "index": 9,
-    "unicode": "👟"
-  },
-  "1f557": {
-    "index": 10,
-    "unicode": "🕗"
-  },
-  "1f43a": {
-    "index": 11,
-    "unicode": "🐺"
-  },
-  "1f3c0": {
-    "index": 12,
-    "unicode": "🏀"
-  },
-  "1f9d2": {
-    "index": 13,
-    "unicode": "🧒"
-  },
-  "1f537": {
-    "index": 14,
-    "unicode": "🔷"
-  },
-  "1f961": {
-    "index": 15,
-    "unicode": "🥡"
-  },
-  "1fa92": {
-    "index": 16,
-    "unicode": "🪒"
-  },
-  "1f407": {
-    "index": 17,
-    "unicode": "🐇"
-  },
-  "1f69b": {
-    "index": 18,
-    "unicode": "🚛"
-  },
   "1f489": {
-    "index": 19,
+    "index": 0,
     "unicode": "💉"
   },
-  "1f9db": {
-    "index": 20,
-    "unicode": "🧛"
+  "1f4bc": {
+    "index": 1,
+    "unicode": "💼"
   },
-  "1f345": {
-    "index": 21,
-    "unicode": "🍅"
+  "1f6d2": {
+    "index": 2,
+    "unicode": "🛒"
   },
-  "2653": {
-    "index": 22,
-    "unicode": "♓"
+  "1f953": {
+    "index": 3,
+    "unicode": "🥓"
   },
-  "1f198": {
-    "index": 23,
-    "unicode": "🆘"
+  "1f9c1": {
+    "index": 4,
+    "unicode": "🧁"
   },
-  "1f4a9": {
-    "index": 24,
-    "unicode": "💩"
+  "1f948": {
+    "index": 5,
+    "unicode": "🥈"
   },
-  "1f6a9": {
-    "index": 25,
-    "unicode": "🚩"
+  "1f47e": {
+    "index": 6,
+    "unicode": "👾"
   },
-  "1f42b": {
-    "index": 26,
-    "unicode": "🐫"
+  "1f413": {
+    "index": 7,
+    "unicode": "🐓"
   },
-  "1f6af": {
-    "index": 27,
-    "unicode": "🚯"
+  "1f64f": {
+    "index": 8,
+    "unicode": "🙏"
   },
-  "1f553": {
-    "index": 28,
-    "unicode": "🕓"
+  "1f3c2": {
+    "index": 9,
+    "unicode": "🏂"
   },
-  "1fab3": {
-    "index": 29,
-    "unicode": "🪳"
+  "1f45d": {
+    "index": 10,
+    "unicode": "👝"
   },
-  "1f42e": {
-    "index": 30,
-    "unicode": "🐮"
+  "1f698": {
+    "index": 11,
+    "unicode": "🚘"
   },
-  "1f35e": {
-    "index": 31,
-    "unicode": "🍞"
+  "1f308": {
+    "index": 12,
+    "unicode": "🌈"
   },
-  "2648": {
-    "index": 32,
-    "unicode": "♈"
+  "1f459": {
+    "index": 13,
+    "unicode": "👙"
   },
-  "1f555": {
-    "index": 33,
-    "unicode": "🕕"
-  },
-  "1f32d": {
-    "index": 34,
-    "unicode": "🌭"
-  },
-  "1f3f9": {
-    "index": 35,
-    "unicode": "🏹"
-  },
-  "1f636": {
-    "index": 36,
-    "unicode": "😶"
-  },
-  "1f4ab": {
-    "index": 37,
-    "unicode": "💫"
-  },
-  "1f7e3": {
-    "index": 38,
-    "unicode": "🟣"
-  },
-  "1f45e": {
-    "index": 39,
-    "unicode": "👞"
-  },
-  "1f9c6": {
-    "index": 40,
-    "unicode": "🧆"
-  },
-  "1f4eb": {
-    "index": 41,
-    "unicode": "📫"
-  },
-  "25fd": {
-    "index": 42,
-    "unicode": "◽"
-  },
-  "1f18e": {
-    "index": 43,
-    "unicode": "🆎"
-  },
-  "1f9d5": {
-    "index": 44,
-    "unicode": "🧕"
-  },
-  "1f3c5": {
-    "index": 45,
-    "unicode": "🏅"
-  },
-  "1f9a1": {
-    "index": 46,
-    "unicode": "🦡"
-  },
-  "1f9bc": {
-    "index": 47,
-    "unicode": "🦼"
-  },
-  "1f442": {
-    "index": 48,
-    "unicode": "👂"
-  },
-  "1f482": {
-    "index": 49,
-    "unicode": "💂"
-  },
-  "1f386": {
-    "index": 50,
-    "unicode": "🎆"
-  },
-  "23f3": {
-    "index": 51,
-    "unicode": "⏳"
-  },
-  "1f37e": {
-    "index": 52,
-    "unicode": "🍾"
-  },
-  "1f4bd": {
-    "index": 53,
-    "unicode": "💽"
-  },
-  "1f9f2": {
-    "index": 54,
-    "unicode": "🧲"
-  },
-  "1f4e7": {
-    "index": 55,
-    "unicode": "📧"
-  },
-  "1f9e0": {
-    "index": 56,
-    "unicode": "🧠"
-  },
-  "26fd": {
-    "index": 57,
-    "unicode": "⛽"
-  },
-  "1f9f7": {
-    "index": 58,
-    "unicode": "🧷"
-  },
-  "1f3a5": {
-    "index": 59,
-    "unicode": "🎥"
-  },
-  "1f239": {
-    "index": 60,
-    "unicode": "🈹"
-  },
-  "1f985": {
-    "index": 61,
-    "unicode": "🦅"
-  },
-  "1f52d": {
-    "index": 62,
-    "unicode": "🔭"
-  },
-  "1f4af": {
-    "index": 63,
-    "unicode": "💯"
-  },
-  "1f389": {
-    "index": 64,
-    "unicode": "🎉"
-  },
-  "1f4c4": {
-    "index": 65,
-    "unicode": "📄"
-  },
-  "1f36d": {
-    "index": 66,
-    "unicode": "🍭"
-  },
-  "1f356": {
-    "index": 67,
-    "unicode": "🍖"
-  },
-  "1f7e5": {
-    "index": 68,
-    "unicode": "🟥"
+  "1f98d": {
+    "index": 14,
+    "unicode": "🦍"
   },
   "1f91d": {
-    "index": 69,
+    "index": 15,
     "unicode": "🤝"
   },
-  "1f457": {
-    "index": 70,
-    "unicode": "👗"
-  },
-  "1f6a6": {
-    "index": 71,
-    "unicode": "🚦"
-  },
-  "1f357": {
-    "index": 72,
-    "unicode": "🍗"
-  },
-  "1f952": {
-    "index": 73,
-    "unicode": "🥒"
-  },
-  "1f503": {
-    "index": 74,
-    "unicode": "🔃"
-  },
-  "1f4b6": {
-    "index": 75,
-    "unicode": "💶"
-  },
-  "1f51d": {
-    "index": 76,
-    "unicode": "🔝"
-  },
-  "264d": {
-    "index": 77,
-    "unicode": "♍"
-  },
-  "1f448": {
-    "index": 78,
-    "unicode": "👈"
-  },
-  "1f6b7": {
-    "index": 79,
-    "unicode": "🚷"
-  },
-  "1fa81": {
-    "index": 80,
-    "unicode": "🪁"
-  },
-  "1f40f": {
-    "index": 81,
-    "unicode": "🐏"
-  },
-  "1f50d": {
-    "index": 82,
-    "unicode": "🔍"
-  },
-  "1f33e": {
-    "index": 83,
-    "unicode": "🌾"
-  },
-  "1f641": {
-    "index": 84,
-    "unicode": "🙁"
-  },
-  "1f943": {
-    "index": 85,
-    "unicode": "🥃"
-  },
-  "1f331": {
-    "index": 86,
-    "unicode": "🌱"
-  },
-  "1f9c5": {
-    "index": 87,
-    "unicode": "🧅"
-  },
-  "1f3cf": {
-    "index": 88,
-    "unicode": "🏏"
-  },
-  "1f4df": {
-    "index": 89,
-    "unicode": "📟"
-  },
-  "1fa95": {
-    "index": 90,
-    "unicode": "🪕"
-  },
-  "1f3e2": {
-    "index": 91,
-    "unicode": "🏢"
-  },
-  "1f3c4": {
-    "index": 92,
-    "unicode": "🏄"
-  },
-  "1f350": {
-    "index": 93,
-    "unicode": "🍐"
-  },
-  "1f500": {
-    "index": 94,
-    "unicode": "🔀"
-  },
-  "1f921": {
-    "index": 95,
-    "unicode": "🤡"
-  },
-  "1f649": {
-    "index": 96,
-    "unicode": "🙉"
-  },
-  "1f382": {
-    "index": 97,
-    "unicode": "🎂"
-  },
-  "1f627": {
-    "index": 98,
-    "unicode": "😧"
-  },
-  "1f467": {
-    "index": 99,
-    "unicode": "👧"
-  },
-  "1f4d0": {
-    "index": 100,
-    "unicode": "📐"
-  },
-  "2753": {
-    "index": 101,
-    "unicode": "❓"
-  },
-  "1f9b3": {
-    "index": 102,
-    "unicode": "🦳"
-  },
-  "1f684": {
-    "index": 103,
-    "unicode": "🚄"
-  },
-  "1f474": {
-    "index": 104,
-    "unicode": "👴"
-  },
-  "1f98a": {
-    "index": 105,
-    "unicode": "🦊"
-  },
-  "1f53a": {
-    "index": 106,
-    "unicode": "🔺"
-  },
-  "1f6b4": {
-    "index": 107,
-    "unicode": "🚴"
-  },
-  "1f928": {
-    "index": 108,
-    "unicode": "🤨"
-  },
-  "1f36e": {
-    "index": 109,
-    "unicode": "🍮"
-  },
-  "1f48d": {
-    "index": 110,
-    "unicode": "💍"
-  },
-  "1f250": {
-    "index": 111,
-    "unicode": "🉐"
-  },
-  "1f9e2": {
-    "index": 112,
-    "unicode": "🧢"
-  },
-  "1f697": {
-    "index": 113,
-    "unicode": "🚗"
-  },
-  "1f608": {
-    "index": 114,
-    "unicode": "😈"
-  },
-  "1f409": {
-    "index": 115,
-    "unicode": "🐉"
-  },
-  "1f7ea": {
-    "index": 116,
-    "unicode": "🟪"
-  },
-  "1f55a": {
-    "index": 117,
-    "unicode": "🕚"
-  },
-  "23e9": {
-    "index": 118,
-    "unicode": "⏩"
-  },
-  "26c5": {
-    "index": 119,
-    "unicode": "⛅"
-  },
-  "1f9d9": {
-    "index": 120,
-    "unicode": "🧙"
-  },
-  "1f515": {
-    "index": 121,
-    "unicode": "🔕"
-  },
-  "1f491": {
-    "index": 122,
-    "unicode": "💑"
-  },
-  "1f400": {
-    "index": 123,
-    "unicode": "🐀"
-  },
-  "1f485": {
-    "index": 124,
-    "unicode": "💅"
-  },
-  "1f975": {
-    "index": 125,
-    "unicode": "🥵"
-  },
-  "1f6c1": {
-    "index": 126,
-    "unicode": "🛁"
-  },
-  "1f533": {
-    "index": 127,
-    "unicode": "🔳"
-  },
-  "1f4d4": {
-    "index": 128,
-    "unicode": "📔"
-  },
-  "1f9f0": {
-    "index": 129,
-    "unicode": "🧰"
-  },
-  "1f509": {
-    "index": 130,
-    "unicode": "🔉"
-  },
-  "1f973": {
-    "index": 131,
-    "unicode": "🥳"
-  },
-  "1f556": {
-    "index": 132,
-    "unicode": "🕖"
-  },
-  "1f4f0": {
-    "index": 133,
-    "unicode": "📰"
-  },
-  "1f34d": {
-    "index": 134,
-    "unicode": "🍍"
-  },
-  "1f492": {
-    "index": 135,
-    "unicode": "💒"
-  },
-  "1f956": {
-    "index": 136,
-    "unicode": "🥖"
-  },
-  "23ea": {
-    "index": 137,
-    "unicode": "⏪"
-  },
-  "1f9ab": {
-    "index": 138,
-    "unicode": "🦫"
-  },
-  "1f69a": {
-    "index": 139,
-    "unicode": "🚚"
-  },
-  "1f4ba": {
-    "index": 140,
-    "unicode": "💺"
-  },
-  "1f360": {
-    "index": 141,
-    "unicode": "🍠"
-  },
-  "1f965": {
-    "index": 142,
-    "unicode": "🥥"
-  },
-  "1f6b9": {
-    "index": 143,
-    "unicode": "🚹"
-  },
-  "1f318": {
-    "index": 144,
-    "unicode": "🌘"
-  },
-  "1f52f": {
-    "index": 145,
-    "unicode": "🔯"
-  },
-  "1f992": {
-    "index": 146,
-    "unicode": "🦒"
-  },
-  "1f6fb": {
-    "index": 147,
-    "unicode": "🛻"
-  },
-  "1f424": {
-    "index": 148,
-    "unicode": "🐤"
-  },
-  "1fad3": {
-    "index": 149,
-    "unicode": "🫓"
-  },
-  "1f68a": {
-    "index": 150,
-    "unicode": "🚊"
-  },
-  "1f38c": {
-    "index": 151,
-    "unicode": "🎌"
-  },
-  "1f97b": {
-    "index": 152,
-    "unicode": "🥻"
-  },
-  "1f4ce": {
-    "index": 153,
-    "unicode": "📎"
-  },
-  "1f9a4": {
-    "index": 154,
-    "unicode": "🦤"
-  },
-  "1f483": {
-    "index": 155,
-    "unicode": "💃"
-  },
-  "1f343": {
-    "index": 156,
-    "unicode": "🍃"
-  },
-  "1f93e": {
-    "index": 157,
-    "unicode": "🤾"
-  },
-  "1f90d": {
-    "index": 158,
-    "unicode": "🤍"
-  },
-  "1f631": {
-    "index": 159,
-    "unicode": "😱"
-  },
-  "1f9f8": {
-    "index": 160,
-    "unicode": "🧸"
-  },
-  "1f31b": {
-    "index": 161,
-    "unicode": "🌛"
-  },
-  "1f3bf": {
-    "index": 162,
-    "unicode": "🎿"
-  },
-  "1f91c": {
-    "index": 163,
-    "unicode": "🤜"
-  },
-  "1f3ab": {
-    "index": 164,
-    "unicode": "🎫"
-  },
-  "1f62d": {
-    "index": 165,
-    "unicode": "😭"
-  },
-  "1f692": {
-    "index": 166,
-    "unicode": "🚒"
-  },
-  "1f3b0": {
-    "index": 167,
-    "unicode": "🎰"
-  },
-  "1f4cf": {
-    "index": 168,
-    "unicode": "📏"
-  },
-  "1f47a": {
-    "index": 169,
-    "unicode": "👺"
-  },
-  "1f562": {
-    "index": 170,
-    "unicode": "🕢"
-  },
-  "1f452": {
-    "index": 171,
-    "unicode": "👒"
-  },
-  "1f64e": {
-    "index": 172,
-    "unicode": "🙎"
-  },
-  "1f504": {
-    "index": 173,
-    "unicode": "🔄"
-  },
-  "1f4c8": {
-    "index": 174,
-    "unicode": "📈"
-  },
-  "1f4c7": {
-    "index": 175,
-    "unicode": "📇"
-  },
-  "1f6fa": {
-    "index": 176,
-    "unicode": "🛺"
-  },
-  "1f349": {
-    "index": 177,
-    "unicode": "🍉"
-  },
-  "1fad2": {
-    "index": 178,
-    "unicode": "🫒"
-  },
-  "1f471": {
-    "index": 179,
-    "unicode": "👱"
-  },
-  "1f96a": {
-    "index": 180,
-    "unicode": "🥪"
-  },
-  "1f560": {
-    "index": 181,
-    "unicode": "🕠"
-  },
-  "1f477": {
-    "index": 182,
-    "unicode": "👷"
-  },
-  "1f97d": {
-    "index": 183,
-    "unicode": "🥽"
-  },
-  "1f559": {
-    "index": 184,
-    "unicode": "🕙"
-  },
   "1fac2": {
-    "index": 185,
+    "index": 16,
     "unicode": "🫂"
   },
-  "1f466": {
-    "index": 186,
-    "unicode": "👦"
+  "1f612": {
+    "index": 17,
+    "unicode": "😒"
   },
-  "1f47f": {
-    "index": 187,
-    "unicode": "👿"
+  "1f697": {
+    "index": 18,
+    "unicode": "🚗"
   },
-  "1f68b": {
-    "index": 188,
-    "unicode": "🚋"
+  "1f999": {
+    "index": 19,
+    "unicode": "🦙"
+  },
+  "23ea": {
+    "index": 20,
+    "unicode": "⏪"
+  },
+  "1f555": {
+    "index": 21,
+    "unicode": "🕕"
+  },
+  "1f989": {
+    "index": 22,
+    "unicode": "🦉"
+  },
+  "2614": {
+    "index": 23,
+    "unicode": "☔"
+  },
+  "1f3e5": {
+    "index": 24,
+    "unicode": "🏥"
+  },
+  "1f967": {
+    "index": 25,
+    "unicode": "🥧"
+  },
+  "1f407": {
+    "index": 26,
+    "unicode": "🐇"
+  },
+  "1f3e1": {
+    "index": 27,
+    "unicode": "🏡"
+  },
+  "1f40a": {
+    "index": 28,
+    "unicode": "🐊"
+  },
+  "1f9eb": {
+    "index": 29,
+    "unicode": "🧫"
+  },
+  "267f": {
+    "index": 30,
+    "unicode": "♿"
+  },
+  "1f7e7": {
+    "index": 31,
+    "unicode": "🟧"
+  },
+  "1f30e": {
+    "index": 32,
+    "unicode": "🌎"
+  },
+  "1f962": {
+    "index": 33,
+    "unicode": "🥢"
+  },
+  "1f92c": {
+    "index": 34,
+    "unicode": "🤬"
+  },
+  "1f984": {
+    "index": 35,
+    "unicode": "🦄"
+  },
+  "1f4d4": {
+    "index": 36,
+    "unicode": "📔"
+  },
+  "1fad1": {
+    "index": 37,
+    "unicode": "🫑"
+  },
+  "1f470": {
+    "index": 38,
+    "unicode": "👰"
+  },
+  "1f512": {
+    "index": 39,
+    "unicode": "🔒"
+  },
+  "1f938": {
+    "index": 40,
+    "unicode": "🤸"
+  },
+  "1f55f": {
+    "index": 41,
+    "unicode": "🕟"
+  },
+  "1f4fa": {
+    "index": 42,
+    "unicode": "📺"
+  },
+  "1f9bf": {
+    "index": 43,
+    "unicode": "🦿"
+  },
+  "1f51d": {
+    "index": 44,
+    "unicode": "🔝"
+  },
+  "1f31a": {
+    "index": 45,
+    "unicode": "🌚"
+  },
+  "1f561": {
+    "index": 46,
+    "unicode": "🕡"
+  },
+  "1f351": {
+    "index": 47,
+    "unicode": "🍑"
+  },
+  "1f9d4": {
+    "index": 48,
+    "unicode": "🧔"
+  },
+  "1f51b": {
+    "index": 49,
+    "unicode": "🔛"
+  },
+  "1f346": {
+    "index": 50,
+    "unicode": "🍆"
+  },
+  "1f6a7": {
+    "index": 51,
+    "unicode": "🚧"
+  },
+  "1f69f": {
+    "index": 52,
+    "unicode": "🚟"
+  },
+  "1f931": {
+    "index": 53,
+    "unicode": "🤱"
+  },
+  "1f352": {
+    "index": 54,
+    "unicode": "🍒"
+  },
+  "274c": {
+    "index": 55,
+    "unicode": "❌"
+  },
+  "1f49e": {
+    "index": 56,
+    "unicode": "💞"
+  },
+  "1f9f3": {
+    "index": 57,
+    "unicode": "🧳"
+  },
+  "1f6b2": {
+    "index": 58,
+    "unicode": "🚲"
+  },
+  "1f6f8": {
+    "index": 59,
+    "unicode": "🛸"
+  },
+  "2753": {
+    "index": 60,
+    "unicode": "❓"
+  },
+  "1f3ef": {
+    "index": 61,
+    "unicode": "🏯"
+  },
+  "1f91a": {
+    "index": 62,
+    "unicode": "🤚"
   },
   "264e": {
-    "index": 189,
+    "index": 63,
     "unicode": "♎"
   },
-  "1f3ad": {
-    "index": 190,
-    "unicode": "🎭"
+  "1fa9a": {
+    "index": 64,
+    "unicode": "🪚"
   },
-  "1f3a9": {
+  "1f480": {
+    "index": 65,
+    "unicode": "💀"
+  },
+  "1f9c4": {
+    "index": 66,
+    "unicode": "🧄"
+  },
+  "1f92f": {
+    "index": 67,
+    "unicode": "🤯"
+  },
+  "1f9f5": {
+    "index": 68,
+    "unicode": "🧵"
+  },
+  "1f48a": {
+    "index": 69,
+    "unicode": "💊"
+  },
+  "1f6b9": {
+    "index": 70,
+    "unicode": "🚹"
+  },
+  "1f5fb": {
+    "index": 71,
+    "unicode": "🗻"
+  },
+  "1f6ad": {
+    "index": 72,
+    "unicode": "🚭"
+  },
+  "1f485": {
+    "index": 73,
+    "unicode": "💅"
+  },
+  "1f3e0": {
+    "index": 74,
+    "unicode": "🏠"
+  },
+  "1f921": {
+    "index": 75,
+    "unicode": "🤡"
+  },
+  "1fab6": {
+    "index": 76,
+    "unicode": "🪶"
+  },
+  "2b55": {
+    "index": 77,
+    "unicode": "⭕"
+  },
+  "2650": {
+    "index": 78,
+    "unicode": "♐"
+  },
+  "1f46c": {
+    "index": 79,
+    "unicode": "👬"
+  },
+  "1f564": {
+    "index": 80,
+    "unicode": "🕤"
+  },
+  "1f6d5": {
+    "index": 81,
+    "unicode": "🛕"
+  },
+  "26fa": {
+    "index": 82,
+    "unicode": "⛺"
+  },
+  "1f98f": {
+    "index": 83,
+    "unicode": "🦏"
+  },
+  "1f996": {
+    "index": 84,
+    "unicode": "🦖"
+  },
+  "1f7e3": {
+    "index": 85,
+    "unicode": "🟣"
+  },
+  "1f3b4": {
+    "index": 86,
+    "unicode": "🎴"
+  },
+  "1f3f4": {
+    "index": 87,
+    "unicode": "🏴"
+  },
+  "1fa9e": {
+    "index": 88,
+    "unicode": "🪞"
+  },
+  "1f9be": {
+    "index": 89,
+    "unicode": "🦾"
+  },
+  "1f37b": {
+    "index": 90,
+    "unicode": "🍻"
+  },
+  "1f647": {
+    "index": 91,
+    "unicode": "🙇"
+  },
+  "1fa79": {
+    "index": 92,
+    "unicode": "🩹"
+  },
+  "1f9e4": {
+    "index": 93,
+    "unicode": "🧤"
+  },
+  "1f455": {
+    "index": 94,
+    "unicode": "👕"
+  },
+  "1fa94": {
+    "index": 95,
+    "unicode": "🪔"
+  },
+  "26c5": {
+    "index": 96,
+    "unicode": "⛅"
+  },
+  "1f469": {
+    "index": 97,
+    "unicode": "👩"
+  },
+  "1f331": {
+    "index": 98,
+    "unicode": "🌱"
+  },
+  "1f50f": {
+    "index": 99,
+    "unicode": "🔏"
+  },
+  "1f333": {
+    "index": 100,
+    "unicode": "🌳"
+  },
+  "1f36a": {
+    "index": 101,
+    "unicode": "🍪"
+  },
+  "1f694": {
+    "index": 102,
+    "unicode": "🚔"
+  },
+  "2649": {
+    "index": 103,
+    "unicode": "♉"
+  },
+  "1f234": {
+    "index": 104,
+    "unicode": "🈴"
+  },
+  "1f518": {
+    "index": 105,
+    "unicode": "🔘"
+  },
+  "1f43c": {
+    "index": 106,
+    "unicode": "🐼"
+  },
+  "1f6b1": {
+    "index": 107,
+    "unicode": "🚱"
+  },
+  "1f370": {
+    "index": 108,
+    "unicode": "🍰"
+  },
+  "1f9a4": {
+    "index": 109,
+    "unicode": "🦤"
+  },
+  "264b": {
+    "index": 110,
+    "unicode": "♋"
+  },
+  "1f3c6": {
+    "index": 111,
+    "unicode": "🏆"
+  },
+  "1f54e": {
+    "index": 112,
+    "unicode": "🕎"
+  },
+  "1f31b": {
+    "index": 113,
+    "unicode": "🌛"
+  },
+  "1f92e": {
+    "index": 114,
+    "unicode": "🤮"
+  },
+  "1f340": {
+    "index": 115,
+    "unicode": "🍀"
+  },
+  "1f507": {
+    "index": 116,
+    "unicode": "🔇"
+  },
+  "1f365": {
+    "index": 117,
+    "unicode": "🍥"
+  },
+  "1f681": {
+    "index": 118,
+    "unicode": "🚁"
+  },
+  "1f4ec": {
+    "index": 119,
+    "unicode": "📬"
+  },
+  "1f942": {
+    "index": 120,
+    "unicode": "🥂"
+  },
+  "1f97e": {
+    "index": 121,
+    "unicode": "🥾"
+  },
+  "1f36f": {
+    "index": 122,
+    "unicode": "🍯"
+  },
+  "1f51f": {
+    "index": 123,
+    "unicode": "🔟"
+  },
+  "1f341": {
+    "index": 124,
+    "unicode": "🍁"
+  },
+  "1f49a": {
+    "index": 125,
+    "unicode": "💚"
+  },
+  "1f90c": {
+    "index": 126,
+    "unicode": "🤌"
+  },
+  "1f232": {
+    "index": 127,
+    "unicode": "🈲"
+  },
+  "1f4b6": {
+    "index": 128,
+    "unicode": "💶"
+  },
+  "1f414": {
+    "index": 129,
+    "unicode": "🐔"
+  },
+  "1f623": {
+    "index": 130,
+    "unicode": "😣"
+  },
+  "1f6fa": {
+    "index": 131,
+    "unicode": "🛺"
+  },
+  "1f3bd": {
+    "index": 132,
+    "unicode": "🎽"
+  },
+  "1f4be": {
+    "index": 133,
+    "unicode": "💾"
+  },
+  "1f7e4": {
+    "index": 134,
+    "unicode": "🟤"
+  },
+  "1f422": {
+    "index": 135,
+    "unicode": "🐢"
+  },
+  "1f3c3": {
+    "index": 136,
+    "unicode": "🏃"
+  },
+  "2615": {
+    "index": 137,
+    "unicode": "☕"
+  },
+  "1f4ee": {
+    "index": 138,
+    "unicode": "📮"
+  },
+  "1f41b": {
+    "index": 139,
+    "unicode": "🐛"
+  },
+  "2651": {
+    "index": 140,
+    "unicode": "♑"
+  },
+  "1f431": {
+    "index": 141,
+    "unicode": "🐱"
+  },
+  "1f649": {
+    "index": 142,
+    "unicode": "🙉"
+  },
+  "1f9d7": {
+    "index": 143,
+    "unicode": "🧗"
+  },
+  "1f3eb": {
+    "index": 144,
+    "unicode": "🏫"
+  },
+  "1f6a3": {
+    "index": 145,
+    "unicode": "🚣"
+  },
+  "23ec": {
+    "index": 146,
+    "unicode": "⏬"
+  },
+  "1f9ee": {
+    "index": 147,
+    "unicode": "🧮"
+  },
+  "1f43d": {
+    "index": 148,
+    "unicode": "🐽"
+  },
+  "1f9f9": {
+    "index": 149,
+    "unicode": "🧹"
+  },
+  "1f468": {
+    "index": 150,
+    "unicode": "👨"
+  },
+  "23f0": {
+    "index": 151,
+    "unicode": "⏰"
+  },
+  "1f50c": {
+    "index": 152,
+    "unicode": "🔌"
+  },
+  "1f4dd": {
+    "index": 153,
+    "unicode": "📝"
+  },
+  "1f4aa": {
+    "index": 154,
+    "unicode": "💪"
+  },
+  "1f53a": {
+    "index": 155,
+    "unicode": "🔺"
+  },
+  "1fa98": {
+    "index": 156,
+    "unicode": "🪘"
+  },
+  "1f68b": {
+    "index": 157,
+    "unicode": "🚋"
+  },
+  "1f3f8": {
+    "index": 158,
+    "unicode": "🏸"
+  },
+  "1f96e": {
+    "index": 159,
+    "unicode": "🥮"
+  },
+  "1f442": {
+    "index": 160,
+    "unicode": "👂"
+  },
+  "1f251": {
+    "index": 161,
+    "unicode": "🉑"
+  },
+  "1f4c5": {
+    "index": 162,
+    "unicode": "📅"
+  },
+  "1f535": {
+    "index": 163,
+    "unicode": "🔵"
+  },
+  "1f513": {
+    "index": 164,
+    "unicode": "🔓"
+  },
+  "1f686": {
+    "index": 165,
+    "unicode": "🚆"
+  },
+  "1f539": {
+    "index": 166,
+    "unicode": "🔹"
+  },
+  "1f63c": {
+    "index": 167,
+    "unicode": "😼"
+  },
+  "1f4de": {
+    "index": 168,
+    "unicode": "📞"
+  },
+  "1f610": {
+    "index": 169,
+    "unicode": "😐"
+  },
+  "1f4b4": {
+    "index": 170,
+    "unicode": "💴"
+  },
+  "1f45f": {
+    "index": 171,
+    "unicode": "👟"
+  },
+  "1f354": {
+    "index": 172,
+    "unicode": "🍔"
+  },
+  "1f62b": {
+    "index": 173,
+    "unicode": "😫"
+  },
+  "1f40d": {
+    "index": 174,
+    "unicode": "🐍"
+  },
+  "1f6a5": {
+    "index": 175,
+    "unicode": "🚥"
+  },
+  "2648": {
+    "index": 176,
+    "unicode": "♈"
+  },
+  "1f488": {
+    "index": 177,
+    "unicode": "💈"
+  },
+  "1f479": {
+    "index": 178,
+    "unicode": "👹"
+  },
+  "1f501": {
+    "index": 179,
+    "unicode": "🔁"
+  },
+  "1f6b5": {
+    "index": 180,
+    "unicode": "🚵"
+  },
+  "1f922": {
+    "index": 181,
+    "unicode": "🤢"
+  },
+  "1f42a": {
+    "index": 182,
+    "unicode": "🐪"
+  },
+  "1f250": {
+    "index": 183,
+    "unicode": "🉐"
+  },
+  "1f305": {
+    "index": 184,
+    "unicode": "🌅"
+  },
+  "1f408": {
+    "index": 185,
+    "unicode": "🐈"
+  },
+  "1f385": {
+    "index": 186,
+    "unicode": "🎅"
+  },
+  "1f409": {
+    "index": 187,
+    "unicode": "🐉"
+  },
+  "1f6a6": {
+    "index": 188,
+    "unicode": "🚦"
+  },
+  "1fad2": {
+    "index": 189,
+    "unicode": "🫒"
+  },
+  "1f359": {
+    "index": 190,
+    "unicode": "🍙"
+  },
+  "1fa9d": {
     "index": 191,
-    "unicode": "🎩"
+    "unicode": "🪝"
   },
   "1f505": {
     "index": 192,
     "unicode": "🔅"
   },
-  "1f945": {
-    "index": 193,
-    "unicode": "🥅"
-  },
-  "1f432": {
-    "index": 194,
-    "unicode": "🐲"
-  },
-  "1f22f": {
-    "index": 195,
-    "unicode": "🈯"
-  },
-  "1f30f": {
-    "index": 196,
-    "unicode": "🌏"
-  },
-  "1f3c3": {
-    "index": 197,
-    "unicode": "🏃"
-  },
-  "1f3e1": {
-    "index": 198,
-    "unicode": "🏡"
-  },
-  "1f50c": {
-    "index": 199,
-    "unicode": "🔌"
-  },
-  "1f31f": {
-    "index": 200,
-    "unicode": "🌟"
-  },
-  "1f404": {
-    "index": 201,
-    "unicode": "🐄"
-  },
-  "1f620": {
-    "index": 202,
-    "unicode": "😠"
-  },
-  "1f406": {
-    "index": 203,
-    "unicode": "🐆"
-  },
-  "1f496": {
-    "index": 204,
-    "unicode": "💖"
-  },
-  "1f371": {
-    "index": 205,
-    "unicode": "🍱"
-  },
-  "1f4fb": {
-    "index": 206,
-    "unicode": "📻"
-  },
-  "1f983": {
-    "index": 207,
-    "unicode": "🦃"
-  },
-  "1f369": {
-    "index": 208,
-    "unicode": "🍩"
-  },
-  "1f308": {
-    "index": 209,
-    "unicode": "🌈"
-  },
-  "1f337": {
-    "index": 210,
-    "unicode": "🌷"
-  },
-  "1f974": {
-    "index": 211,
-    "unicode": "🥴"
-  },
-  "1f4d1": {
-    "index": 212,
-    "unicode": "📑"
-  },
-  "1f6be": {
-    "index": 213,
-    "unicode": "🚾"
-  },
-  "1f4d2": {
-    "index": 214,
-    "unicode": "📒"
-  },
-  "1f3e5": {
-    "index": 215,
-    "unicode": "🏥"
-  },
-  "1f695": {
-    "index": 216,
-    "unicode": "🚕"
-  },
-  "1f4ed": {
-    "index": 217,
-    "unicode": "📭"
-  },
-  "1f3a0": {
-    "index": 218,
-    "unicode": "🎠"
-  },
-  "1f969": {
-    "index": 219,
-    "unicode": "🥩"
-  },
-  "1f497": {
-    "index": 220,
-    "unicode": "💗"
-  },
-  "1f4f7": {
-    "index": 221,
-    "unicode": "📷"
-  },
-  "1fad6": {
-    "index": 222,
-    "unicode": "🫖"
-  },
-  "1f49f": {
-    "index": 223,
-    "unicode": "💟"
-  },
-  "1f6a4": {
-    "index": 224,
-    "unicode": "🚤"
-  },
-  "1f40a": {
-    "index": 225,
-    "unicode": "🐊"
-  },
-  "1f62b": {
-    "index": 226,
-    "unicode": "😫"
-  },
-  "26ea": {
-    "index": 227,
-    "unicode": "⛪"
-  },
-  "1f199": {
-    "index": 228,
-    "unicode": "🆙"
-  },
-  "1f53b": {
-    "index": 229,
-    "unicode": "🔻"
-  },
-  "1f92b": {
-    "index": 230,
-    "unicode": "🤫"
-  },
-  "1f614": {
-    "index": 231,
-    "unicode": "😔"
-  },
-  "1f9ee": {
-    "index": 232,
-    "unicode": "🧮"
-  },
-  "1f3e9": {
-    "index": 233,
-    "unicode": "🏩"
-  },
-  "1f36f": {
-    "index": 234,
-    "unicode": "🍯"
-  },
-  "1f7e7": {
-    "index": 235,
-    "unicode": "🟧"
-  },
-  "1f69d": {
-    "index": 236,
-    "unicode": "🚝"
-  },
-  "25fe": {
-    "index": 237,
-    "unicode": "◾"
-  },
-  "1f9a2": {
-    "index": 238,
-    "unicode": "🦢"
-  },
-  "1f3e7": {
-    "index": 239,
-    "unicode": "🏧"
-  },
-  "1f4be": {
-    "index": 240,
-    "unicode": "💾"
-  },
-  "1f690": {
-    "index": 241,
-    "unicode": "🚐"
-  },
-  "1f511": {
-    "index": 242,
-    "unicode": "🔑"
-  },
-  "1f96d": {
-    "index": 243,
-    "unicode": "🥭"
-  },
-  "1f915": {
-    "index": 244,
-    "unicode": "🤕"
-  },
-  "1f490": {
-    "index": 245,
-    "unicode": "💐"
-  },
-  "1f90f": {
-    "index": 246,
-    "unicode": "🤏"
-  },
-  "1f917": {
-    "index": 247,
-    "unicode": "🤗"
-  },
-  "1f3ed": {
-    "index": 248,
-    "unicode": "🏭"
-  },
-  "2615": {
-    "index": 249,
-    "unicode": "☕"
-  },
-  "1f63b": {
-    "index": 250,
-    "unicode": "😻"
-  },
-  "1f302": {
-    "index": 251,
-    "unicode": "🌂"
-  },
-  "1f3ae": {
-    "index": 252,
-    "unicode": "🎮"
-  },
-  "1f567": {
-    "index": 253,
-    "unicode": "🕧"
-  },
-  "1fa82": {
-    "index": 254,
-    "unicode": "🪂"
-  },
-  "1fa99": {
-    "index": 255,
-    "unicode": "🪙"
-  },
-  "1f3ef": {
-    "index": 256,
-    "unicode": "🏯"
-  },
-  "1f531": {
-    "index": 257,
-    "unicode": "🔱"
-  },
-  "1f44e": {
-    "index": 258,
-    "unicode": "👎"
-  },
-  "1f364": {
-    "index": 259,
-    "unicode": "🍤"
-  },
-  "1f625": {
-    "index": 260,
-    "unicode": "😥"
-  },
-  "1fa79": {
-    "index": 261,
-    "unicode": "🩹"
-  },
-  "1f4e9": {
-    "index": 262,
-    "unicode": "📩"
-  },
-  "1f238": {
-    "index": 263,
-    "unicode": "🈸"
-  },
-  "1f379": {
-    "index": 264,
-    "unicode": "🍹"
-  },
-  "1f920": {
-    "index": 265,
-    "unicode": "🤠"
-  },
-  "1f998": {
-    "index": 266,
-    "unicode": "🦘"
-  },
-  "1f440": {
-    "index": 267,
-    "unicode": "👀"
-  },
-  "1f9c2": {
-    "index": 268,
-    "unicode": "🧂"
-  },
-  "1f9a5": {
-    "index": 269,
-    "unicode": "🦥"
-  },
-  "1f944": {
-    "index": 270,
-    "unicode": "🥄"
-  },
-  "1f94a": {
-    "index": 271,
-    "unicode": "🥊"
-  },
-  "1f9e1": {
-    "index": 272,
-    "unicode": "🧡"
-  },
-  "1f30e": {
-    "index": 273,
-    "unicode": "🌎"
-  },
-  "1f9b4": {
-    "index": 274,
-    "unicode": "🦴"
-  },
-  "1f319": {
-    "index": 275,
-    "unicode": "🌙"
-  },
-  "1f640": {
-    "index": 276,
-    "unicode": "🙀"
-  },
-  "1f447": {
-    "index": 277,
-    "unicode": "👇"
-  },
-  "1f55e": {
-    "index": 278,
-    "unicode": "🕞"
-  },
-  "1f9fa": {
-    "index": 279,
-    "unicode": "🧺"
-  },
-  "2795": {
-    "index": 280,
-    "unicode": "➕"
-  },
-  "1f633": {
-    "index": 281,
-    "unicode": "😳"
-  },
-  "1f683": {
-    "index": 282,
-    "unicode": "🚃"
-  },
-  "1f913": {
-    "index": 283,
-    "unicode": "🤓"
-  },
-  "1f6ba": {
-    "index": 284,
-    "unicode": "🚺"
-  },
-  "1fa72": {
-    "index": 285,
-    "unicode": "🩲"
-  },
-  "1f947": {
-    "index": 286,
-    "unicode": "🥇"
-  },
-  "1fa73": {
-    "index": 287,
-    "unicode": "🩳"
-  },
-  "1f42a": {
-    "index": 288,
-    "unicode": "🐪"
-  },
-  "1f61e": {
-    "index": 289,
-    "unicode": "😞"
-  },
-  "1f60e": {
-    "index": 290,
-    "unicode": "😎"
-  },
-  "1f413": {
-    "index": 291,
-    "unicode": "🐓"
-  },
-  "1f518": {
-    "index": 292,
-    "unicode": "🔘"
-  },
-  "2797": {
-    "index": 293,
-    "unicode": "➗"
-  },
-  "1f639": {
-    "index": 294,
-    "unicode": "😹"
-  },
-  "1f3be": {
-    "index": 295,
-    "unicode": "🎾"
-  },
-  "1f34c": {
-    "index": 296,
-    "unicode": "🍌"
-  },
-  "1f3fa": {
-    "index": 297,
-    "unicode": "🏺"
-  },
-  "1f9f9": {
-    "index": 298,
-    "unicode": "🧹"
-  },
-  "1f3bc": {
-    "index": 299,
-    "unicode": "🎼"
-  },
-  "1f381": {
-    "index": 300,
-    "unicode": "🎁"
-  },
-  "1f92a": {
-    "index": 301,
-    "unicode": "🤪"
-  },
-  "1f4ef": {
-    "index": 302,
-    "unicode": "📯"
-  },
-  "1f9ed": {
-    "index": 303,
-    "unicode": "🧭"
-  },
-  "1f46e": {
-    "index": 304,
-    "unicode": "👮"
-  },
-  "1f33c": {
-    "index": 305,
-    "unicode": "🌼"
-  },
-  "1f303": {
-    "index": 306,
-    "unicode": "🌃"
-  },
-  "1f622": {
-    "index": 307,
-    "unicode": "😢"
-  },
-  "1f359": {
-    "index": 308,
-    "unicode": "🍙"
-  },
-  "1f9bb": {
-    "index": 309,
-    "unicode": "🦻"
-  },
-  "1f6b0": {
-    "index": 310,
-    "unicode": "🚰"
-  },
-  "1f510": {
-    "index": 311,
-    "unicode": "🔐"
-  },
-  "1f31a": {
-    "index": 312,
-    "unicode": "🌚"
-  },
-  "1f4d6": {
-    "index": 313,
-    "unicode": "📖"
-  },
-  "1f9a7": {
-    "index": 314,
-    "unicode": "🦧"
-  },
-  "1f30a": {
-    "index": 315,
-    "unicode": "🌊"
-  },
-  "1f340": {
-    "index": 316,
-    "unicode": "🍀"
-  },
-  "1f90e": {
-    "index": 317,
-    "unicode": "🤎"
-  },
-  "1f9bf": {
-    "index": 318,
-    "unicode": "🦿"
-  },
-  "1fab4": {
-    "index": 319,
-    "unicode": "🪴"
-  },
-  "1f69f": {
-    "index": 320,
-    "unicode": "🚟"
-  },
-  "1fa9e": {
-    "index": 321,
-    "unicode": "🪞"
-  },
-  "1f9e7": {
-    "index": 322,
-    "unicode": "🧧"
-  },
-  "1f4b1": {
-    "index": 323,
-    "unicode": "💱"
-  },
-  "26d4": {
-    "index": 324,
-    "unicode": "⛔"
-  },
-  "1f355": {
-    "index": 325,
-    "unicode": "🍕"
-  },
-  "2614": {
-    "index": 326,
-    "unicode": "☔"
-  },
-  "1fac1": {
-    "index": 327,
-    "unicode": "🫁"
-  },
-  "1f4da": {
-    "index": 328,
-    "unicode": "📚"
-  },
-  "1f935": {
-    "index": 329,
-    "unicode": "🤵"
-  },
-  "1f955": {
-    "index": 330,
-    "unicode": "🥕"
-  },
-  "1f341": {
-    "index": 331,
-    "unicode": "🍁"
-  },
-  "1f988": {
-    "index": 332,
-    "unicode": "🦈"
-  },
-  "1f9bd": {
-    "index": 333,
-    "unicode": "🦽"
-  },
-  "1f40c": {
-    "index": 334,
-    "unicode": "🐌"
-  },
-  "1f342": {
-    "index": 335,
-    "unicode": "🍂"
-  },
-  "1f6c4": {
-    "index": 336,
-    "unicode": "🛄"
-  },
-  "26f5": {
-    "index": 337,
-    "unicode": "⛵"
-  },
-  "1f3e8": {
-    "index": 338,
-    "unicode": "🏨"
-  },
-  "26f2": {
-    "index": 339,
-    "unicode": "⛲"
-  },
-  "1fa80": {
-    "index": 340,
-    "unicode": "🪀"
-  },
-  "1f4ac": {
-    "index": 341,
-    "unicode": "💬"
-  },
-  "1f4c9": {
-    "index": 342,
-    "unicode": "📉"
-  },
-  "1f50b": {
-    "index": 343,
-    "unicode": "🔋"
-  },
-  "1f309": {
-    "index": 344,
-    "unicode": "🌉"
-  },
-  "1faa0": {
-    "index": 345,
-    "unicode": "🪠"
-  },
-  "1f918": {
-    "index": 346,
-    "unicode": "🤘"
-  },
-  "1f931": {
-    "index": 347,
-    "unicode": "🤱"
-  },
-  "1f46a": {
-    "index": 348,
-    "unicode": "👪"
-  },
-  "1f621": {
-    "index": 349,
-    "unicode": "😡"
-  },
-  "1f4f3": {
-    "index": 350,
-    "unicode": "📳"
-  },
-  "1f479": {
-    "index": 351,
-    "unicode": "👹"
-  },
-  "2651": {
-    "index": 352,
-    "unicode": "♑"
-  },
-  "1f44d": {
-    "index": 353,
-    "unicode": "👍"
-  },
-  "1fa9b": {
-    "index": 354,
-    "unicode": "🪛"
-  },
-  "1f4a4": {
-    "index": 355,
-    "unicode": "💤"
-  },
-  "1f3ee": {
-    "index": 356,
-    "unicode": "🏮"
-  },
-  "1f4a0": {
-    "index": 357,
-    "unicode": "💠"
-  },
-  "1f5fc": {
-    "index": 358,
-    "unicode": "🗼"
-  },
-  "1f47b": {
-    "index": 359,
-    "unicode": "👻"
-  },
-  "1f9ce": {
-    "index": 360,
-    "unicode": "🧎"
-  },
-  "1f3a8": {
-    "index": 361,
-    "unicode": "🎨"
-  },
-  "1f3d0": {
-    "index": 362,
-    "unicode": "🏐"
-  },
-  "1f196": {
-    "index": 363,
-    "unicode": "🆖"
-  },
-  "1f456": {
-    "index": 364,
-    "unicode": "👖"
-  },
-  "1f330": {
-    "index": 365,
-    "unicode": "🌰"
-  },
-  "1f997": {
-    "index": 366,
-    "unicode": "🦗"
-  },
-  "1f377": {
-    "index": 367,
-    "unicode": "🍷"
-  },
-  "1f64a": {
-    "index": 368,
-    "unicode": "🙊"
-  },
-  "1fa78": {
-    "index": 369,
-    "unicode": "🩸"
-  },
-  "1fa93": {
-    "index": 370,
-    "unicode": "🪓"
-  },
-  "1f34b": {
-    "index": 371,
-    "unicode": "🍋"
-  },
-  "1f6b5": {
-    "index": 372,
-    "unicode": "🚵"
-  },
-  "1f307": {
-    "index": 373,
-    "unicode": "🌇"
-  },
-  "1f535": {
-    "index": 374,
-    "unicode": "🔵"
-  },
-  "1f469": {
-    "index": 375,
-    "unicode": "👩"
-  },
-  "1f93d": {
-    "index": 376,
-    "unicode": "🤽"
-  },
-  "1fa9c": {
-    "index": 377,
-    "unicode": "🪜"
-  },
-  "1f45a": {
-    "index": 378,
-    "unicode": "👚"
-  },
-  "1f41c": {
-    "index": 379,
-    "unicode": "🐜"
-  },
-  "2757": {
-    "index": 380,
-    "unicode": "❗"
-  },
-  "1f97e": {
-    "index": 381,
-    "unicode": "🥾"
-  },
-  "1f3e0": {
-    "index": 382,
-    "unicode": "🏠"
-  },
-  "1f9e8": {
-    "index": 383,
-    "unicode": "🧨"
-  },
-  "1f9c8": {
-    "index": 384,
-    "unicode": "🧈"
-  },
-  "1f97a": {
-    "index": 385,
-    "unicode": "🥺"
-  },
-  "1f422": {
-    "index": 386,
-    "unicode": "🐢"
-  },
-  "1f4b7": {
-    "index": 387,
-    "unicode": "💷"
-  },
-  "1f941": {
-    "index": 388,
-    "unicode": "🥁"
-  },
-  "1f539": {
-    "index": 389,
-    "unicode": "🔹"
-  },
-  "2728": {
-    "index": 390,
-    "unicode": "✨"
-  },
-  "1f6b3": {
-    "index": 391,
-    "unicode": "🚳"
-  },
-  "1f92e": {
-    "index": 392,
-    "unicode": "🤮"
-  },
-  "1f310": {
-    "index": 393,
-    "unicode": "🌐"
-  },
-  "1f523": {
-    "index": 394,
-    "unicode": "🔣"
-  },
-  "1f9b9": {
-    "index": 395,
-    "unicode": "🦹"
-  },
-  "1f9dd": {
-    "index": 396,
-    "unicode": "🧝"
-  },
-  "1f3b1": {
-    "index": 397,
-    "unicode": "🎱"
-  },
-  "1f60b": {
-    "index": 398,
-    "unicode": "😋"
-  },
-  "1f410": {
-    "index": 399,
-    "unicode": "🐐"
-  },
-  "1f61f": {
-    "index": 400,
-    "unicode": "😟"
-  },
-  "1f6ec": {
-    "index": 401,
-    "unicode": "🛬"
-  },
-  "1f502": {
-    "index": 402,
-    "unicode": "🔂"
-  },
-  "1f38e": {
-    "index": 403,
-    "unicode": "🎎"
-  },
-  "1f635": {
-    "index": 404,
-    "unicode": "😵"
-  },
-  "1f958": {
-    "index": 405,
-    "unicode": "🥘"
-  },
-  "1f411": {
-    "index": 406,
-    "unicode": "🐑"
-  },
-  "1f68e": {
-    "index": 407,
-    "unicode": "🚎"
-  },
-  "1f21a": {
-    "index": 408,
-    "unicode": "🈚"
-  },
-  "1f44b": {
-    "index": 409,
-    "unicode": "👋"
-  },
-  "1f630": {
-    "index": 410,
-    "unicode": "😰"
-  },
-  "1f367": {
-    "index": 411,
-    "unicode": "🍧"
-  },
-  "1f402": {
-    "index": 412,
-    "unicode": "🐂"
-  },
-  "1f3c2": {
-    "index": 413,
-    "unicode": "🏂"
-  },
-  "1f4cb": {
-    "index": 414,
-    "unicode": "📋"
-  },
-  "1f62f": {
-    "index": 415,
-    "unicode": "😯"
-  },
-  "1f44a": {
-    "index": 416,
-    "unicode": "👊"
-  },
-  "1f6c3": {
-    "index": 417,
-    "unicode": "🛃"
-  },
-  "1f463": {
-    "index": 418,
-    "unicode": "👣"
-  },
-  "1f47c": {
-    "index": 419,
-    "unicode": "👼"
-  },
-  "1f3b2": {
-    "index": 420,
-    "unicode": "🎲"
-  },
-  "1faa5": {
-    "index": 421,
-    "unicode": "🪥"
-  },
-  "1f968": {
-    "index": 422,
-    "unicode": "🥨"
-  },
-  "1f4e0": {
-    "index": 423,
-    "unicode": "📠"
-  },
-  "1f698": {
-    "index": 424,
-    "unicode": "🚘"
-  },
-  "1f41f": {
-    "index": 425,
-    "unicode": "🐟"
-  },
-  "1f41e": {
-    "index": 426,
-    "unicode": "🐞"
-  },
-  "1f3ca": {
-    "index": 427,
-    "unicode": "🏊"
-  },
-  "27bf": {
-    "index": 428,
-    "unicode": "➿"
-  },
-  "1f91b": {
-    "index": 429,
-    "unicode": "🤛"
-  },
-  "1f942": {
-    "index": 430,
-    "unicode": "🥂"
-  },
-  "1f4b8": {
-    "index": 431,
-    "unicode": "💸"
-  },
-  "1f31e": {
-    "index": 432,
-    "unicode": "🌞"
-  },
-  "1f366": {
-    "index": 433,
-    "unicode": "🍦"
-  },
-  "2796": {
-    "index": 434,
-    "unicode": "➖"
-  },
-  "1f93a": {
-    "index": 435,
-    "unicode": "🤺"
-  },
-  "1f99f": {
-    "index": 436,
-    "unicode": "🦟"
-  },
-  "1f31c": {
-    "index": 437,
-    "unicode": "🌜"
-  },
-  "1f64f": {
-    "index": 438,
-    "unicode": "🙏"
-  },
-  "1f63c": {
-    "index": 439,
-    "unicode": "😼"
-  },
-  "1f930": {
-    "index": 440,
-    "unicode": "🤰"
-  },
-  "1f6ad": {
-    "index": 441,
-    "unicode": "🚭"
-  },
-  "1fad1": {
-    "index": 442,
-    "unicode": "🫑"
-  },
-  "1f194": {
-    "index": 443,
-    "unicode": "🆔"
-  },
-  "1f44c": {
-    "index": 444,
-    "unicode": "👌"
-  },
-  "1f9a9": {
-    "index": 445,
-    "unicode": "🦩"
-  },
-  "1f528": {
-    "index": 446,
-    "unicode": "🔨"
-  },
-  "1f4d8": {
-    "index": 447,
-    "unicode": "📘"
-  },
-  "2755": {
-    "index": 448,
-    "unicode": "❕"
-  },
-  "264a": {
-    "index": 449,
-    "unicode": "♊"
-  },
-  "1faa1": {
-    "index": 450,
-    "unicode": "🪡"
-  },
-  "1f4cd": {
-    "index": 451,
-    "unicode": "📍"
-  },
-  "1f358": {
-    "index": 452,
-    "unicode": "🍘"
-  },
-  "1f3a4": {
-    "index": 453,
-    "unicode": "🎤"
-  },
-  "1f98c": {
-    "index": 454,
-    "unicode": "🦌"
-  },
-  "1f35d": {
-    "index": 455,
-    "unicode": "🍝"
-  },
-  "1f54b": {
-    "index": 456,
-    "unicode": "🕋"
-  },
-  "1f376": {
-    "index": 457,
-    "unicode": "🍶"
-  },
-  "1f991": {
-    "index": 458,
-    "unicode": "🦑"
-  },
-  "1f6f7": {
-    "index": 459,
-    "unicode": "🛷"
-  },
-  "1f648": {
-    "index": 460,
-    "unicode": "🙈"
-  },
-  "1fad4": {
-    "index": 461,
-    "unicode": "🫔"
-  },
-  "1f6ab": {
-    "index": 462,
-    "unicode": "🚫"
-  },
-  "1f6d1": {
-    "index": 463,
-    "unicode": "🛑"
-  },
-  "1f9e3": {
-    "index": 464,
-    "unicode": "🧣"
-  },
-  "1f423": {
-    "index": 465,
-    "unicode": "🐣"
-  },
-  "1f645": {
-    "index": 466,
-    "unicode": "🙅"
-  },
-  "1f437": {
-    "index": 467,
-    "unicode": "🐷"
-  },
-  "1f999": {
-    "index": 468,
-    "unicode": "🦙"
-  },
-  "1f3e3": {
-    "index": 469,
-    "unicode": "🏣"
-  },
-  "1f637": {
-    "index": 470,
-    "unicode": "😷"
-  },
-  "1f62e": {
-    "index": 471,
-    "unicode": "😮"
-  },
-  "1f251": {
-    "index": 472,
-    "unicode": "🉑"
-  },
-  "1faa7": {
-    "index": 473,
-    "unicode": "🪧"
-  },
-  "1f616": {
-    "index": 474,
-    "unicode": "😖"
-  },
-  "1f4b4": {
-    "index": 475,
-    "unicode": "💴"
-  },
-  "1f3a6": {
-    "index": 476,
-    "unicode": "🎦"
-  },
-  "1f193": {
-    "index": 477,
-    "unicode": "🆓"
-  },
-  "1f46d": {
-    "index": 478,
-    "unicode": "👭"
-  },
-  "1f3c6": {
-    "index": 479,
-    "unicode": "🏆"
-  },
-  "1f4d7": {
-    "index": 480,
-    "unicode": "📗"
-  },
-  "26aa": {
-    "index": 481,
-    "unicode": "⚪"
-  },
-  "1f487": {
-    "index": 482,
-    "unicode": "💇"
-  },
-  "1f3bb": {
-    "index": 483,
-    "unicode": "🎻"
-  },
-  "1f4f6": {
-    "index": 484,
-    "unicode": "📶"
-  },
-  "1f430": {
-    "index": 485,
-    "unicode": "🐰"
-  },
-  "1f4e5": {
-    "index": 486,
-    "unicode": "📥"
-  },
-  "1f61b": {
-    "index": 487,
-    "unicode": "😛"
-  },
-  "1faa4": {
-    "index": 488,
-    "unicode": "🪤"
-  },
-  "1f685": {
-    "index": 489,
-    "unicode": "🚅"
-  },
-  "1f9c1": {
-    "index": 490,
-    "unicode": "🧁"
-  },
-  "1f4fc": {
-    "index": 491,
-    "unicode": "📼"
-  },
-  "1f34f": {
-    "index": 492,
-    "unicode": "🍏"
-  },
-  "26c4": {
-    "index": 493,
-    "unicode": "⛄"
-  },
-  "1fa9f": {
-    "index": 494,
-    "unicode": "🪟"
-  },
-  "1f33d": {
-    "index": 495,
-    "unicode": "🌽"
-  },
-  "1f346": {
-    "index": 496,
-    "unicode": "🍆"
-  },
-  "1f478": {
-    "index": 497,
-    "unicode": "👸"
-  },
-  "1f445": {
-    "index": 498,
-    "unicode": "👅"
-  },
-  "1f9af": {
-    "index": 499,
-    "unicode": "🦯"
-  },
-  "1f980": {
-    "index": 500,
-    "unicode": "🦀"
-  },
-  "1f417": {
-    "index": 501,
-    "unicode": "🐗"
-  },
-  "1f0cf": {
-    "index": 502,
-    "unicode": "🃏"
-  },
-  "1f9f1": {
-    "index": 503,
-    "unicode": "🧱"
-  },
-  "1f403": {
-    "index": 504,
-    "unicode": "🐃"
-  },
-  "1f95c": {
-    "index": 505,
-    "unicode": "🥜"
-  },
-  "1f9a6": {
-    "index": 506,
-    "unicode": "🦦"
-  },
-  "1f420": {
-    "index": 507,
-    "unicode": "🐠"
-  },
-  "1f6a8": {
-    "index": 508,
-    "unicode": "🚨"
-  },
-  "1f64b": {
-    "index": 509,
-    "unicode": "🙋"
-  },
-  "1f385": {
-    "index": 510,
-    "unicode": "🎅"
-  },
-  "1f52e": {
-    "index": 511,
-    "unicode": "🔮"
-  },
-  "1f9eb": {
-    "index": 512,
-    "unicode": "🧫"
-  },
-  "1f4bc": {
-    "index": 513,
-    "unicode": "💼"
-  },
-  "1f513": {
-    "index": 514,
-    "unicode": "🔓"
-  },
-  "1f4d5": {
-    "index": 515,
-    "unicode": "📕"
-  },
-  "1f6f8": {
-    "index": 516,
-    "unicode": "🛸"
-  },
-  "1f370": {
-    "index": 517,
-    "unicode": "🍰"
-  },
-  "1f6c0": {
-    "index": 518,
-    "unicode": "🛀"
-  },
-  "1f47d": {
-    "index": 519,
-    "unicode": "👽"
-  },
-  "1f488": {
-    "index": 520,
-    "unicode": "💈"
-  },
-  "1f3f8": {
-    "index": 521,
-    "unicode": "🏸"
-  },
-  "1f306": {
-    "index": 522,
-    "unicode": "🌆"
-  },
-  "1f4cc": {
-    "index": 523,
-    "unicode": "📌"
-  },
-  "1f421": {
-    "index": 524,
-    "unicode": "🐡"
-  },
-  "1f37a": {
-    "index": 525,
-    "unicode": "🍺"
-  },
-  "1f459": {
-    "index": 526,
-    "unicode": "👙"
-  },
-  "1f33a": {
-    "index": 527,
-    "unicode": "🌺"
-  },
-  "1f47e": {
-    "index": 528,
-    "unicode": "👾"
-  },
-  "1f565": {
-    "index": 529,
-    "unicode": "🕥"
-  },
-  "1f6c5": {
-    "index": 530,
-    "unicode": "🛅"
-  },
-  "1f69e": {
-    "index": 531,
-    "unicode": "🚞"
-  },
-  "1f9d0": {
-    "index": 532,
-    "unicode": "🧐"
-  },
-  "26ce": {
-    "index": 533,
-    "unicode": "⛎"
-  },
-  "264b": {
-    "index": 534,
-    "unicode": "♋"
-  },
-  "1f316": {
-    "index": 535,
-    "unicode": "🌖"
-  },
-  "1f3c8": {
-    "index": 536,
-    "unicode": "🏈"
-  },
-  "1f36a": {
-    "index": 537,
-    "unicode": "🍪"
-  },
-  "1f978": {
-    "index": 538,
-    "unicode": "🥸"
-  },
-  "1f45d": {
-    "index": 539,
-    "unicode": "👝"
-  },
-  "1f49d": {
-    "index": 540,
-    "unicode": "💝"
-  },
-  "1f4f4": {
-    "index": 541,
-    "unicode": "📴"
-  },
-  "1f97c": {
-    "index": 542,
-    "unicode": "🥼"
-  },
-  "1f372": {
-    "index": 543,
-    "unicode": "🍲"
-  },
-  "1f924": {
-    "index": 544,
-    "unicode": "🤤"
-  },
-  "1f3b3": {
-    "index": 545,
-    "unicode": "🎳"
-  },
-  "1f9a8": {
-    "index": 546,
-    "unicode": "🦨"
-  },
-  "1f390": {
-    "index": 547,
-    "unicode": "🎐"
-  },
-  "1f93c": {
-    "index": 548,
-    "unicode": "🤼"
-  },
-  "1f472": {
-    "index": 549,
-    "unicode": "👲"
-  },
-  "1f51f": {
-    "index": 550,
-    "unicode": "🔟"
-  },
-  "1f368": {
-    "index": 551,
-    "unicode": "🍨"
-  },
-  "1f6b1": {
-    "index": 552,
-    "unicode": "🚱"
-  },
-  "1f9fd": {
-    "index": 553,
-    "unicode": "🧽"
-  },
-  "1f4de": {
-    "index": 554,
-    "unicode": "📞"
-  },
-  "1f97f": {
-    "index": 555,
-    "unicode": "🥿"
-  },
-  "1f632": {
-    "index": 556,
-    "unicode": "😲"
-  },
-  "1f4aa": {
-    "index": 557,
-    "unicode": "💪"
-  },
-  "1f4b0": {
-    "index": 558,
-    "unicode": "💰"
-  },
-  "1f4fa": {
-    "index": 559,
-    "unicode": "📺"
-  },
-  "1f46b": {
-    "index": 560,
-    "unicode": "👫"
-  },
-  "1f30b": {
-    "index": 561,
-    "unicode": "🌋"
-  },
-  "1f4e6": {
-    "index": 562,
-    "unicode": "📦"
-  },
-  "1f439": {
-    "index": 563,
-    "unicode": "🐹"
-  },
-  "1f454": {
-    "index": 564,
-    "unicode": "👔"
-  },
-  "1f6a1": {
-    "index": 565,
-    "unicode": "🚡"
-  },
-  "2650": {
-    "index": 566,
-    "unicode": "♐"
-  },
-  "1f9ea": {
-    "index": 567,
-    "unicode": "🧪"
-  },
-  "1f530": {
-    "index": 568,
-    "unicode": "🔰"
-  },
-  "1f538": {
-    "index": 569,
-    "unicode": "🔸"
-  },
-  "1f4c6": {
-    "index": 570,
-    "unicode": "📆"
-  },
-  "1f4a3": {
-    "index": 571,
-    "unicode": "💣"
-  },
-  "1f443": {
-    "index": 572,
-    "unicode": "👃"
-  },
-  "1faa6": {
-    "index": 573,
-    "unicode": "🪦"
-  },
-  "1f986": {
-    "index": 574,
-    "unicode": "🦆"
-  },
-  "1f344": {
-    "index": 575,
-    "unicode": "🍄"
-  },
-  "1f990": {
-    "index": 576,
-    "unicode": "🦐"
-  },
-  "1f9c3": {
-    "index": 577,
-    "unicode": "🧃"
-  },
-  "274e": {
-    "index": 578,
-    "unicode": "❎"
-  },
-  "1f55d": {
-    "index": 579,
-    "unicode": "🕝"
-  },
-  "1f693": {
-    "index": 580,
-    "unicode": "🚓"
-  },
-  "1fa97": {
-    "index": 581,
-    "unicode": "🪗"
-  },
-  "1f9df": {
-    "index": 582,
-    "unicode": "🧟"
-  },
-  "1f3ac": {
-    "index": 583,
-    "unicode": "🎬"
-  },
-  "1f987": {
-    "index": 584,
-    "unicode": "🦇"
-  },
-  "1f550": {
-    "index": 585,
-    "unicode": "🕐"
-  },
-  "1f9d6": {
-    "index": 586,
-    "unicode": "🧖"
-  },
-  "1f976": {
-    "index": 587,
-    "unicode": "🥶"
-  },
-  "27b0": {
-    "index": 588,
-    "unicode": "➰"
-  },
-  "1f6aa": {
-    "index": 589,
-    "unicode": "🚪"
-  },
-  "1f7e4": {
-    "index": 590,
-    "unicode": "🟤"
-  },
-  "1f4bf": {
-    "index": 591,
-    "unicode": "💿"
-  },
-  "1f566": {
-    "index": 592,
-    "unicode": "🕦"
-  },
-  "1f3d3": {
-    "index": 593,
-    "unicode": "🏓"
-  },
-  "1f91f": {
-    "index": 594,
-    "unicode": "🤟"
-  },
-  "1f429": {
-    "index": 595,
-    "unicode": "🐩"
-  },
-  "1f460": {
-    "index": 596,
-    "unicode": "👠"
-  },
-  "1f60f": {
-    "index": 597,
-    "unicode": "😏"
-  },
-  "1f4f1": {
-    "index": 598,
-    "unicode": "📱"
-  },
-  "1f304": {
-    "index": 599,
-    "unicode": "🌄"
-  },
-  "1f314": {
-    "index": 600,
-    "unicode": "🌔"
-  },
-  "1f52c": {
-    "index": 601,
-    "unicode": "🔬"
-  },
-  "1f4b3": {
-    "index": 602,
-    "unicode": "💳"
-  },
-  "1f347": {
-    "index": 603,
-    "unicode": "🍇"
-  },
-  "1f92d": {
-    "index": 604,
-    "unicode": "🤭"
-  },
-  "1f514": {
-    "index": 605,
-    "unicode": "🔔"
-  },
-  "1f335": {
-    "index": 606,
-    "unicode": "🌵"
-  },
-  "1f6bd": {
-    "index": 607,
-    "unicode": "🚽"
-  },
-  "1fa74": {
-    "index": 608,
-    "unicode": "🩴"
-  },
-  "1f525": {
-    "index": 609,
-    "unicode": "🔥"
-  },
-  "1f680": {
-    "index": 610,
-    "unicode": "🚀"
-  },
-  "1f9ef": {
-    "index": 611,
-    "unicode": "🧯"
-  },
-  "1f334": {
-    "index": 612,
-    "unicode": "🌴"
-  },
-  "1f468": {
-    "index": 613,
-    "unicode": "👨"
-  },
-  "1f99a": {
-    "index": 614,
-    "unicode": "🦚"
-  },
-  "1f644": {
-    "index": 615,
-    "unicode": "🙄"
-  },
-  "231a": {
-    "index": 616,
-    "unicode": "⌚"
-  },
-  "1f7e1": {
-    "index": 617,
-    "unicode": "🟡"
-  },
-  "1f9a0": {
-    "index": 618,
-    "unicode": "🦠"
-  },
-  "1f4c5": {
-    "index": 619,
-    "unicode": "📅"
-  },
-  "1f378": {
-    "index": 620,
-    "unicode": "🍸"
-  },
-  "2b1b": {
-    "index": 621,
-    "unicode": "⬛"
-  },
-  "1f4e1": {
-    "index": 622,
-    "unicode": "📡"
-  },
-  "1f9b1": {
-    "index": 623,
-    "unicode": "🦱"
-  },
-  "1f30c": {
-    "index": 624,
-    "unicode": "🌌"
-  },
-  "1f9d7": {
-    "index": 625,
-    "unicode": "🧗"
-  },
-  "1f916": {
-    "index": 626,
-    "unicode": "🤖"
-  },
-  "1f911": {
-    "index": 627,
-    "unicode": "🤑"
-  },
-  "1f688": {
-    "index": 628,
-    "unicode": "🚈"
-  },
-  "1f6cc": {
-    "index": 629,
-    "unicode": "🛌"
-  },
-  "1f501": {
-    "index": 630,
-    "unicode": "🔁"
-  },
-  "1f682": {
-    "index": 631,
-    "unicode": "🚂"
-  },
-  "1f36c": {
-    "index": 632,
-    "unicode": "🍬"
-  },
-  "264f": {
-    "index": 633,
-    "unicode": "♏"
-  },
-  "1f9b5": {
-    "index": 634,
-    "unicode": "🦵"
-  },
-  "1f3c9": {
-    "index": 635,
-    "unicode": "🏉"
-  },
-  "1f63d": {
-    "index": 636,
-    "unicode": "😽"
-  },
-  "1f57a": {
-    "index": 637,
-    "unicode": "🕺"
-  },
-  "1f313": {
-    "index": 638,
-    "unicode": "🌓"
-  },
-  "1f977": {
-    "index": 639,
-    "unicode": "🥷"
-  },
-  "1f4ec": {
-    "index": 640,
-    "unicode": "📬"
-  },
-  "1f6a2": {
-    "index": 641,
-    "unicode": "🚢"
-  },
-  "1f615": {
-    "index": 642,
-    "unicode": "😕"
-  },
-  "1f312": {
-    "index": 643,
-    "unicode": "🌒"
-  },
-  "1f3b4": {
-    "index": 644,
-    "unicode": "🎴"
-  },
-  "1f51a": {
-    "index": 645,
-    "unicode": "🔚"
-  },
-  "1f4c3": {
-    "index": 646,
-    "unicode": "📃"
-  },
-  "1f6c2": {
-    "index": 647,
-    "unicode": "🛂"
-  },
-  "1f4a1": {
-    "index": 648,
-    "unicode": "💡"
-  },
-  "1f3b6": {
-    "index": 649,
-    "unicode": "🎶"
-  },
-  "1f508": {
-    "index": 650,
-    "unicode": "🔈"
-  },
-  "1f94f": {
-    "index": 651,
-    "unicode": "🥏"
-  },
-  "1f38f": {
-    "index": 652,
-    "unicode": "🎏"
-  },
-  "1f7e0": {
-    "index": 653,
-    "unicode": "🟠"
-  },
-  "1f4dd": {
-    "index": 654,
-    "unicode": "📝"
-  },
-  "1f428": {
-    "index": 655,
-    "unicode": "🐨"
-  },
-  "1f392": {
-    "index": 656,
-    "unicode": "🎒"
-  },
-  "23ec": {
-    "index": 657,
-    "unicode": "⏬"
-  },
-  "1f3b7": {
-    "index": 658,
-    "unicode": "🎷"
-  },
-  "1f534": {
-    "index": 659,
-    "unicode": "🔴"
-  },
-  "1f6d7": {
-    "index": 660,
-    "unicode": "🛗"
-  },
-  "1f6fc": {
-    "index": 661,
-    "unicode": "🛼"
-  },
-  "1f949": {
-    "index": 662,
-    "unicode": "🥉"
-  },
-  "1f96e": {
-    "index": 663,
-    "unicode": "🥮"
-  },
-  "1f9f6": {
-    "index": 664,
-    "unicode": "🧶"
-  },
-  "1f9e9": {
-    "index": 665,
-    "unicode": "🧩"
-  },
-  "1f234": {
-    "index": 666,
-    "unicode": "🈴"
-  },
-  "1f6f4": {
-    "index": 667,
-    "unicode": "🛴"
-  },
-  "1f375": {
-    "index": 668,
-    "unicode": "🍵"
-  },
-  "1f98f": {
-    "index": 669,
-    "unicode": "🦏"
-  },
-  "1f32f": {
-    "index": 670,
-    "unicode": "🌯"
-  },
-  "1f6d5": {
-    "index": 671,
-    "unicode": "🛕"
-  },
-  "1f626": {
-    "index": 672,
-    "unicode": "😦"
-  },
-  "1f596": {
-    "index": 673,
-    "unicode": "🖖"
-  },
-  "1f5a4": {
-    "index": 674,
-    "unicode": "🖤"
-  },
-  "1f9ec": {
-    "index": 675,
-    "unicode": "🧬"
-  },
-  "23f0": {
-    "index": 676,
-    "unicode": "⏰"
-  },
-  "1f30d": {
-    "index": 677,
-    "unicode": "🌍"
-  },
-  "1f5fe": {
-    "index": 678,
-    "unicode": "🗾"
-  },
-  "1f451": {
-    "index": 679,
-    "unicode": "👑"
-  },
-  "270a": {
-    "index": 680,
-    "unicode": "✊"
-  },
-  "1f192": {
-    "index": 681,
-    "unicode": "🆒"
-  },
-  "1f315": {
-    "index": 682,
-    "unicode": "🌕"
-  },
-  "1f416": {
-    "index": 683,
-    "unicode": "🐖"
-  },
-  "1f414": {
-    "index": 684,
-    "unicode": "🐔"
-  },
-  "1faa2": {
-    "index": 685,
-    "unicode": "🪢"
-  },
-  "1f405": {
-    "index": 686,
-    "unicode": "🐅"
-  },
-  "1f363": {
-    "index": 687,
-    "unicode": "🍣"
-  },
-  "26a1": {
-    "index": 688,
-    "unicode": "⚡"
-  },
-  "1fa91": {
-    "index": 689,
-    "unicode": "🪑"
-  },
-  "1f981": {
-    "index": 690,
-    "unicode": "🦁"
-  },
-  "1f320": {
-    "index": 691,
-    "unicode": "🌠"
-  },
-  "1f458": {
-    "index": 692,
-    "unicode": "👘"
-  },
-  "1f3a7": {
-    "index": 693,
-    "unicode": "🎧"
-  },
-  "1f3ea": {
-    "index": 694,
-    "unicode": "🏪"
-  },
-  "1f939": {
-    "index": 695,
-    "unicode": "🤹"
-  },
-  "1f3ec": {
-    "index": 696,
-    "unicode": "🏬"
-  },
-  "1f7e9": {
-    "index": 697,
-    "unicode": "🟩"
-  },
-  "1f50e": {
-    "index": 698,
-    "unicode": "🔎"
-  },
-  "1f957": {
-    "index": 699,
-    "unicode": "🥗"
-  },
-  "1f3f4": {
-    "index": 700,
-    "unicode": "🏴"
-  },
-  "1f35b": {
-    "index": 701,
-    "unicode": "🍛"
-  },
-  "2754": {
-    "index": 702,
-    "unicode": "❔"
-  },
-  "1fa9a": {
-    "index": 703,
-    "unicode": "🪚"
-  },
-  "1f9c7": {
-    "index": 704,
-    "unicode": "🧇"
-  },
-  "1f99d": {
-    "index": 705,
-    "unicode": "🦝"
-  },
-  "1f9ac": {
-    "index": 706,
-    "unicode": "🦬"
-  },
-  "1f5fb": {
-    "index": 707,
-    "unicode": "🗻"
-  },
-  "1f3f0": {
-    "index": 708,
-    "unicode": "🏰"
-  },
-  "1f438": {
-    "index": 709,
-    "unicode": "🐸"
-  },
-  "1f49b": {
-    "index": 710,
-    "unicode": "💛"
-  },
-  "1f4e4": {
-    "index": 711,
-    "unicode": "📤"
-  },
-  "1f951": {
-    "index": 712,
-    "unicode": "🥑"
-  },
-  "1f338": {
-    "index": 713,
-    "unicode": "🌸"
-  },
-  "1f48f": {
-    "index": 714,
-    "unicode": "💏"
-  },
-  "1f529": {
-    "index": 715,
-    "unicode": "🔩"
-  },
-  "1f353": {
-    "index": 716,
-    "unicode": "🍓"
-  },
-  "1f60c": {
-    "index": 717,
-    "unicode": "😌"
-  },
-  "1f37c": {
-    "index": 718,
-    "unicode": "🍼"
-  },
-  "1f33f": {
-    "index": 719,
-    "unicode": "🌿"
-  },
-  "1fa94": {
-    "index": 720,
-    "unicode": "🪔"
-  },
-  "1f694": {
-    "index": 721,
-    "unicode": "🚔"
-  },
-  "1f94d": {
-    "index": 722,
-    "unicode": "🥍"
-  },
-  "1f62a": {
-    "index": 723,
-    "unicode": "😪"
-  },
-  "1f623": {
-    "index": 724,
-    "unicode": "😣"
-  },
-  "1f300": {
-    "index": 725,
-    "unicode": "🌀"
-  },
-  "1f959": {
-    "index": 726,
-    "unicode": "🥙"
-  },
-  "1f6ac": {
-    "index": 727,
-    "unicode": "🚬"
-  },
-  "1f4ee": {
-    "index": 728,
-    "unicode": "📮"
-  },
-  "fe0f": {
-    "index": 729,
-    "unicode": "️"
-  },
-  "1f963": {
-    "index": 730,
-    "unicode": "🥣"
-  },
-  "1f49e": {
-    "index": 731,
-    "unicode": "💞"
-  },
-  "1f43c": {
-    "index": 732,
-    "unicode": "🐼"
-  },
-  "1f9cb": {
-    "index": 733,
-    "unicode": "🧋"
-  },
-  "1f50a": {
-    "index": 734,
-    "unicode": "🔊"
-  },
-  "1f64d": {
-    "index": 735,
-    "unicode": "🙍"
-  },
-  "1f912": {
-    "index": 736,
-    "unicode": "🤒"
-  },
-  "1f68d": {
-    "index": 737,
-    "unicode": "🚍"
-  },
-  "1f46c": {
-    "index": 738,
-    "unicode": "👬"
-  },
-  "1f32e": {
-    "index": 739,
-    "unicode": "🌮"
-  },
-  "1f426": {
-    "index": 740,
-    "unicode": "🐦"
-  },
-  "1f361": {
-    "index": 741,
-    "unicode": "🍡"
-  },
-  "1f197": {
-    "index": 742,
-    "unicode": "🆗"
-  },
-  "1fa9d": {
-    "index": 743,
-    "unicode": "🪝"
-  },
-  "1f6eb": {
-    "index": 744,
-    "unicode": "🛫"
-  },
-  "1f90c": {
-    "index": 745,
-    "unicode": "🤌"
-  },
-  "1fa84": {
-    "index": 746,
-    "unicode": "🪄"
-  },
-  "1f427": {
-    "index": 747,
-    "unicode": "🐧"
-  },
-  "1f9c9": {
-    "index": 748,
-    "unicode": "🧉"
-  },
-  "1f332": {
-    "index": 749,
-    "unicode": "🌲"
-  },
-  "1f48a": {
-    "index": 750,
-    "unicode": "💊"
-  },
-  "1f232": {
-    "index": 751,
-    "unicode": "🈲"
-  },
-  "1f373": {
-    "index": 752,
-    "unicode": "🍳"
-  },
-  "1f595": {
-    "index": 753,
-    "unicode": "🖕"
-  },
-  "1f418": {
-    "index": 754,
-    "unicode": "🐘"
-  },
-  "1fab2": {
-    "index": 755,
-    "unicode": "🪲"
-  },
-  "1f354": {
-    "index": 756,
-    "unicode": "🍔"
-  },
-  "1f4ad": {
-    "index": 757,
-    "unicode": "💭"
-  },
-  "1f004": {
-    "index": 758,
-    "unicode": "🀄"
-  },
-  "1fab5": {
-    "index": 759,
-    "unicode": "🪵"
-  },
-  "1f6a7": {
-    "index": 760,
-    "unicode": "🚧"
-  },
-  "26f3": {
-    "index": 761,
-    "unicode": "⛳"
-  },
-  "1f475": {
-    "index": 762,
-    "unicode": "👵"
-  },
-  "1f9f3": {
-    "index": 763,
-    "unicode": "🧳"
-  },
-  "1f563": {
-    "index": 764,
-    "unicode": "🕣"
-  },
-  "1f9b2": {
-    "index": 765,
-    "unicode": "🦲"
-  },
-  "1f9de": {
-    "index": 766,
-    "unicode": "🧞"
-  },
-  "1f236": {
-    "index": 767,
-    "unicode": "🈶"
-  },
-  "1f938": {
-    "index": 768,
-    "unicode": "🤸"
-  },
-  "1f994": {
-    "index": 769,
-    "unicode": "🦔"
-  },
-  "1f6d6": {
-    "index": 770,
-    "unicode": "🛖"
-  },
-  "1f967": {
-    "index": 771,
-    "unicode": "🥧"
-  },
-  "1f4bb": {
-    "index": 772,
-    "unicode": "💻"
-  },
-  "1f638": {
-    "index": 773,
-    "unicode": "😸"
-  },
-  "1fa98": {
-    "index": 774,
-    "unicode": "🪘"
-  },
-  "1f506": {
-    "index": 775,
-    "unicode": "🔆"
-  },
-  "1f94e": {
-    "index": 776,
-    "unicode": "🥎"
-  },
-  "1f96b": {
-    "index": 777,
-    "unicode": "🥫"
-  },
-  "1f925": {
-    "index": 778,
-    "unicode": "🤥"
-  },
-  "1f92c": {
-    "index": 779,
-    "unicode": "🤬"
-  },
-  "1f484": {
-    "index": 780,
-    "unicode": "💄"
-  },
-  "1f613": {
-    "index": 781,
-    "unicode": "😓"
-  },
-  "1f4a7": {
-    "index": 782,
-    "unicode": "💧"
-  },
-  "1f4b9": {
-    "index": 783,
-    "unicode": "💹"
-  },
-  "1f365": {
-    "index": 784,
-    "unicode": "🍥"
-  },
-  "1f9da": {
-    "index": 785,
-    "unicode": "🧚"
-  },
-  "1f69c": {
-    "index": 786,
-    "unicode": "🚜"
-  },
-  "1f686": {
-    "index": 787,
-    "unicode": "🚆"
-  },
-  "1f919": {
-    "index": 788,
-    "unicode": "🤙"
-  },
-  "1f993": {
-    "index": 789,
-    "unicode": "🦓"
-  },
-  "1f33b": {
-    "index": 790,
-    "unicode": "🌻"
-  },
-  "1f387": {
-    "index": 791,
-    "unicode": "🎇"
-  },
-  "1f54d": {
-    "index": 792,
-    "unicode": "🕍"
-  },
-  "1f3c1": {
-    "index": 793,
-    "unicode": "🏁"
-  },
-  "1f92f": {
-    "index": 794,
-    "unicode": "🤯"
-  },
-  "1f982": {
-    "index": 795,
-    "unicode": "🦂"
-  },
-  "1f624": {
-    "index": 796,
-    "unicode": "😤"
-  },
-  "1f552": {
-    "index": 797,
-    "unicode": "🕒"
-  },
-  "1f6bf": {
-    "index": 798,
-    "unicode": "🚿"
-  },
-  "1f38a": {
-    "index": 799,
-    "unicode": "🎊"
-  },
-  "1f494": {
-    "index": 800,
-    "unicode": "💔"
-  },
-  "1f9b0": {
-    "index": 801,
-    "unicode": "🦰"
-  },
-  "1f408": {
-    "index": 802,
-    "unicode": "🐈"
-  },
-  "1f38d": {
-    "index": 803,
-    "unicode": "🎍"
-  },
-  "1f54e": {
-    "index": 804,
-    "unicode": "🕎"
-  },
-  "1f311": {
-    "index": 805,
-    "unicode": "🌑"
-  },
-  "1f43b": {
-    "index": 806,
-    "unicode": "🐻"
-  },
-  "1f3af": {
-    "index": 807,
-    "unicode": "🎯"
-  },
-  "1f3a1": {
-    "index": 808,
-    "unicode": "🎡"
-  },
-  "1f6bc": {
-    "index": 809,
-    "unicode": "🚼"
-  },
-  "1f35f": {
-    "index": 810,
-    "unicode": "🍟"
-  },
-  "1f34a": {
-    "index": 811,
-    "unicode": "🍊"
-  },
-  "1f19a": {
-    "index": 812,
-    "unicode": "🆚"
-  },
-  "1f922": {
-    "index": 813,
-    "unicode": "🤢"
-  },
-  "1f971": {
-    "index": 814,
-    "unicode": "🥱"
-  },
-  "1f9e4": {
-    "index": 815,
-    "unicode": "🧤"
-  },
-  "1f233": {
-    "index": 816,
-    "unicode": "🈳"
-  },
-  "1fa70": {
-    "index": 817,
-    "unicode": "🩰"
-  },
-  "1f4d9": {
-    "index": 818,
-    "unicode": "📙"
-  },
-  "1f3a2": {
-    "index": 819,
-    "unicode": "🎢"
-  },
-  "1f9d4": {
-    "index": 820,
-    "unicode": "🧔"
-  },
-  "1f512": {
-    "index": 821,
-    "unicode": "🔒"
-  },
-  "1f9e5": {
-    "index": 822,
-    "unicode": "🧥"
-  },
-  "1fad0": {
-    "index": 823,
-    "unicode": "🫐"
-  },
-  "1f4f5": {
-    "index": 824,
-    "unicode": "📵"
-  },
-  "1f926": {
-    "index": 825,
-    "unicode": "🤦"
-  },
-  "1f9b8": {
-    "index": 826,
-    "unicode": "🦸"
-  },
-  "1f9b7": {
-    "index": 827,
-    "unicode": "🦷"
-  },
-  "1f9ca": {
-    "index": 828,
-    "unicode": "🧊"
-  },
-  "1f61d": {
-    "index": 829,
-    "unicode": "😝"
-  },
-  "26be": {
-    "index": 830,
-    "unicode": "⚾"
-  },
-  "1fad5": {
-    "index": 831,
-    "unicode": "🫕"
-  },
-  "1f455": {
-    "index": 832,
-    "unicode": "👕"
-  },
-  "1f996": {
-    "index": 833,
-    "unicode": "🦖"
-  },
-  "1f521": {
-    "index": 834,
-    "unicode": "🔡"
-  },
-  "1f55f": {
-    "index": 835,
-    "unicode": "🕟"
-  },
-  "1f40d": {
-    "index": 836,
-    "unicode": "🐍"
-  },
-  "1f98d": {
-    "index": 837,
-    "unicode": "🦍"
-  },
-  "1f46f": {
-    "index": 838,
-    "unicode": "👯"
-  },
-  "1faa3": {
-    "index": 839,
-    "unicode": "🪣"
-  },
-  "1f9e6": {
-    "index": 840,
-    "unicode": "🧦"
-  },
-  "1f5ff": {
-    "index": 841,
-    "unicode": "🗿"
-  },
-  "1f3aa": {
-    "index": 842,
-    "unicode": "🎪"
-  },
-  "1faa8": {
-    "index": 843,
-    "unicode": "🪨"
-  },
-  "1f948": {
-    "index": 844,
-    "unicode": "🥈"
-  },
-  "1f99b": {
-    "index": 845,
-    "unicode": "🦛"
-  },
-  "1f63f": {
-    "index": 846,
-    "unicode": "😿"
-  },
-  "1f9c4": {
-    "index": 847,
-    "unicode": "🧄"
-  },
-  "1f99e": {
-    "index": 848,
-    "unicode": "🦞"
-  },
-  "1fa90": {
-    "index": 849,
-    "unicode": "🪐"
-  },
-  "1f44f": {
-    "index": 850,
-    "unicode": "👏"
-  },
-  "1f42c": {
-    "index": 851,
-    "unicode": "🐬"
-  },
-  "1f681": {
-    "index": 852,
-    "unicode": "🚁"
-  },
-  "1f91e": {
-    "index": 853,
-    "unicode": "🤞"
-  },
-  "1f63a": {
-    "index": 854,
-    "unicode": "😺"
-  },
-  "1f486": {
-    "index": 855,
-    "unicode": "💆"
-  },
-  "1f393": {
-    "index": 856,
-    "unicode": "🎓"
-  },
-  "1f4e2": {
-    "index": 857,
-    "unicode": "📢"
-  },
-  "1fa85": {
-    "index": 858,
-    "unicode": "🪅"
-  },
-  "1f43e": {
-    "index": 859,
-    "unicode": "🐾"
-  },
-  "1f431": {
-    "index": 860,
-    "unicode": "🐱"
-  },
-  "1f37f": {
-    "index": 861,
-    "unicode": "🍿"
-  },
   "1f461": {
-    "index": 862,
+    "index": 193,
     "unicode": "👡"
   },
-  "26ab": {
-    "index": 863,
-    "unicode": "⚫"
-  },
-  "1f517": {
-    "index": 864,
-    "unicode": "🔗"
-  },
-  "1f391": {
-    "index": 865,
-    "unicode": "🎑"
-  },
-  "1f9fb": {
-    "index": 866,
-    "unicode": "🧻"
-  },
-  "1f932": {
-    "index": 867,
-    "unicode": "🤲"
-  },
-  "2693": {
-    "index": 868,
-    "unicode": "⚓"
-  },
-  "1f301": {
-    "index": 869,
-    "unicode": "🌁"
-  },
-  "1f3eb": {
-    "index": 870,
-    "unicode": "🏫"
-  },
-  "1f51b": {
-    "index": 871,
-    "unicode": "🔛"
-  },
-  "1f49a": {
-    "index": 872,
-    "unicode": "💚"
-  },
-  "1f449": {
-    "index": 873,
-    "unicode": "👉"
-  },
-  "1f4f2": {
-    "index": 874,
-    "unicode": "📲"
-  },
-  "1f352": {
-    "index": 875,
-    "unicode": "🍒"
-  },
-  "1f36b": {
-    "index": 876,
-    "unicode": "🍫"
-  },
-  "1f7e8": {
-    "index": 877,
-    "unicode": "🟨"
-  },
-  "1f40b": {
-    "index": 878,
-    "unicode": "🐋"
-  },
-  "1f61c": {
-    "index": 879,
-    "unicode": "😜"
-  },
-  "1f498": {
-    "index": 880,
-    "unicode": "💘"
-  },
-  "1f972": {
-    "index": 881,
-    "unicode": "🥲"
-  },
-  "1f9d8": {
-    "index": 882,
-    "unicode": "🧘"
-  },
-  "1f950": {
-    "index": 883,
-    "unicode": "🥐"
-  },
-  "1f551": {
-    "index": 884,
-    "unicode": "🕑"
-  },
-  "1f53d": {
-    "index": 885,
-    "unicode": "🔽"
-  },
-  "1f646": {
-    "index": 886,
-    "unicode": "🙆"
-  },
-  "1f317": {
-    "index": 887,
-    "unicode": "🌗"
-  },
-  "1f9a3": {
-    "index": 888,
-    "unicode": "🦣"
-  },
-  "1f68c": {
-    "index": 889,
-    "unicode": "🚌"
-  },
-  "1f388": {
-    "index": 890,
-    "unicode": "🎈"
-  },
-  "2705": {
-    "index": 891,
-    "unicode": "✅"
-  },
-  "1f453": {
-    "index": 892,
-    "unicode": "👓"
-  },
-  "1f419": {
-    "index": 893,
-    "unicode": "🐙"
-  },
-  "1f48c": {
-    "index": 894,
-    "unicode": "💌"
-  },
-  "1f35c": {
-    "index": 895,
-    "unicode": "🍜"
-  },
-  "1f6f5": {
-    "index": 896,
-    "unicode": "🛵"
-  },
-  "1f6f9": {
-    "index": 897,
-    "unicode": "🛹"
-  },
-  "1f476": {
-    "index": 898,
-    "unicode": "👶"
-  },
-  "1f195": {
-    "index": 899,
-    "unicode": "🆕"
-  },
-  "1f564": {
-    "index": 900,
-    "unicode": "🕤"
-  },
-  "1f63e": {
-    "index": 901,
-    "unicode": "😾"
-  },
-  "1f9d3": {
-    "index": 902,
-    "unicode": "🧓"
-  },
-  "231b": {
-    "index": 903,
-    "unicode": "⌛"
-  },
-  "1f96c": {
-    "index": 904,
-    "unicode": "🥬"
-  },
-  "1f927": {
-    "index": 905,
-    "unicode": "🤧"
-  },
-  "1f493": {
-    "index": 906,
-    "unicode": "💓"
-  },
-  "1f532": {
-    "index": 907,
-    "unicode": "🔲"
-  },
-  "1f9cd": {
-    "index": 908,
-    "unicode": "🧍"
-  },
-  "1f4dc": {
-    "index": 909,
-    "unicode": "📜"
-  },
-  "1f954": {
-    "index": 910,
-    "unicode": "🥔"
-  },
-  "1f4ae": {
-    "index": 911,
-    "unicode": "💮"
-  },
-  "264c": {
-    "index": 912,
-    "unicode": "♌"
-  },
-  "1f910": {
-    "index": 913,
-    "unicode": "🤐"
-  },
-  "1f7e2": {
-    "index": 914,
-    "unicode": "🟢"
-  },
-  "1f480": {
-    "index": 915,
-    "unicode": "💀"
-  },
-  "1fa7a": {
-    "index": 916,
-    "unicode": "🩺"
-  },
-  "1f99c": {
-    "index": 917,
-    "unicode": "🦜"
-  },
-  "1f516": {
-    "index": 918,
-    "unicode": "🔖"
-  },
-  "1f425": {
-    "index": 919,
-    "unicode": "🐥"
-  },
-  "1f95e": {
-    "index": 920,
-    "unicode": "🥞"
-  },
-  "1f94c": {
-    "index": 921,
-    "unicode": "🥌"
-  },
-  "1f415": {
-    "index": 922,
-    "unicode": "🐕"
-  },
-  "1f526": {
-    "index": 923,
-    "unicode": "🔦"
-  },
-  "1f6b6": {
-    "index": 924,
-    "unicode": "🚶"
-  },
-  "1f41b": {
-    "index": 925,
-    "unicode": "🐛"
-  },
-  "1f3e4": {
-    "index": 926,
-    "unicode": "🏤"
-  },
-  "1f481": {
-    "index": 927,
-    "unicode": "💁"
-  },
-  "1f9b6": {
-    "index": 928,
-    "unicode": "🦶"
-  },
-  "1f610": {
-    "index": 929,
-    "unicode": "😐"
-  },
-  "1f6a3": {
-    "index": 930,
-    "unicode": "🚣"
-  },
-  "1f362": {
-    "index": 931,
-    "unicode": "🍢"
-  },
-  "1f450": {
-    "index": 932,
-    "unicode": "👐"
-  },
-  "1fa71": {
-    "index": 933,
-    "unicode": "🩱"
-  },
-  "1f9cf": {
-    "index": 934,
-    "unicode": "🧏"
-  },
-  "1f696": {
-    "index": 935,
-    "unicode": "🚖"
-  },
-  "1f933": {
-    "index": 936,
-    "unicode": "🤳"
-  },
-  "1f9ff": {
-    "index": 937,
-    "unicode": "🧿"
-  },
-  "1f3b9": {
-    "index": 938,
-    "unicode": "🎹"
-  },
-  "1f42f": {
-    "index": 939,
-    "unicode": "🐯"
-  },
-  "1f527": {
-    "index": 940,
-    "unicode": "🔧"
-  },
-  "1f536": {
-    "index": 941,
-    "unicode": "🔶"
-  },
-  "1f3d1": {
-    "index": 942,
-    "unicode": "🏑"
-  },
-  "1f4db": {
-    "index": 943,
-    "unicode": "📛"
-  },
-  "1f612": {
-    "index": 944,
-    "unicode": "😒"
-  },
-  "1f35a": {
-    "index": 945,
-    "unicode": "🍚"
-  },
-  "1f960": {
-    "index": 946,
-    "unicode": "🥠"
-  },
-  "1f964": {
-    "index": 947,
-    "unicode": "🥤"
-  },
-  "1f6bb": {
-    "index": 948,
-    "unicode": "🚻"
-  },
-  "1f687": {
-    "index": 949,
-    "unicode": "🚇"
-  },
-  "1f3a3": {
-    "index": 950,
-    "unicode": "🎣"
-  },
-  "1f339": {
-    "index": 951,
-    "unicode": "🌹"
-  },
-  "1f462": {
-    "index": 952,
-    "unicode": "👢"
-  },
-  "1f3ba": {
-    "index": 953,
-    "unicode": "🎺"
-  },
-  "1fac0": {
-    "index": 954,
-    "unicode": "🫀"
-  },
-  "1f31d": {
-    "index": 955,
-    "unicode": "🌝"
-  },
-  "1f4a5": {
-    "index": 956,
-    "unicode": "💥"
-  },
-  "1fab6": {
-    "index": 957,
-    "unicode": "🪶"
-  },
-  "2b50": {
-    "index": 958,
-    "unicode": "⭐"
-  },
-  "270b": {
-    "index": 959,
-    "unicode": "✋"
-  },
-  "1f9ad": {
-    "index": 960,
-    "unicode": "🦭"
-  },
-  "1f4c0": {
-    "index": 961,
-    "unicode": "📀"
-  },
-  "1f6a5": {
-    "index": 962,
-    "unicode": "🚥"
-  },
-  "1f433": {
-    "index": 963,
-    "unicode": "🐳"
-  },
-  "1f495": {
-    "index": 964,
-    "unicode": "💕"
-  },
-  "1f436": {
-    "index": 965,
-    "unicode": "🐶"
-  },
-  "1f6d2": {
-    "index": 966,
-    "unicode": "🛒"
-  },
-  "2b1c": {
-    "index": 967,
-    "unicode": "⬜"
-  },
-  "1f3e6": {
-    "index": 968,
-    "unicode": "🏦"
-  },
-  "1f561": {
-    "index": 969,
-    "unicode": "🕡"
-  },
-  "1f95a": {
-    "index": 970,
-    "unicode": "🥚"
-  },
-  "1fa96": {
-    "index": 971,
-    "unicode": "🪖"
-  },
-  "1f383": {
-    "index": 972,
-    "unicode": "🎃"
-  },
-  "1f6b8": {
-    "index": 973,
-    "unicode": "🚸"
-  },
-  "26bd": {
-    "index": 974,
-    "unicode": "⚽"
-  },
-  "1f49c": {
-    "index": 975,
-    "unicode": "💜"
-  },
-  "1f23a": {
-    "index": 976,
-    "unicode": "🈺"
-  },
-  "1f629": {
-    "index": 977,
-    "unicode": "😩"
-  },
-  "274c": {
-    "index": 978,
-    "unicode": "❌"
-  },
-  "1fa86": {
-    "index": 979,
-    "unicode": "🪆"
-  },
-  "1f50f": {
-    "index": 980,
-    "unicode": "🔏"
-  },
-  "1f6d0": {
-    "index": 981,
-    "unicode": "🛐"
-  },
-  "1f333": {
-    "index": 982,
-    "unicode": "🌳"
-  },
-  "1f473": {
-    "index": 983,
-    "unicode": "👳"
-  },
-  "1f6f6": {
-    "index": 984,
-    "unicode": "🛶"
-  },
-  "1f412": {
-    "index": 985,
-    "unicode": "🐒"
-  },
-  "1f68f": {
-    "index": 986,
-    "unicode": "🚏"
-  },
-  "1f53c": {
-    "index": 987,
-    "unicode": "🔼"
-  },
-  "1f9ae": {
-    "index": 988,
-    "unicode": "🦮"
-  },
-  "1f48b": {
-    "index": 989,
-    "unicode": "💋"
-  },
-  "1f384": {
-    "index": 990,
-    "unicode": "🎄"
-  },
-  "1f3b8": {
-    "index": 991,
-    "unicode": "🎸"
+  "1f4f0": {
+    "index": 194,
+    "unicode": "📰"
+  },
+  "1f648": {
+    "index": 195,
+    "unicode": "🙈"
+  },
+  "1faa2": {
+    "index": 196,
+    "unicode": "🪢"
+  },
+  "1f9bc": {
+    "index": 197,
+    "unicode": "🦼"
+  },
+  "1f3a9": {
+    "index": 198,
+    "unicode": "🎩"
+  },
+  "1f99b": {
+    "index": 199,
+    "unicode": "🦛"
+  },
+  "1f3f0": {
+    "index": 200,
+    "unicode": "🏰"
+  },
+  "1f52f": {
+    "index": 201,
+    "unicode": "🔯"
+  },
+  "1fac1": {
+    "index": 202,
+    "unicode": "🫁"
   },
   "1f235": {
-    "index": 992,
+    "index": 203,
     "unicode": "🈵"
   },
-  "1f3bd": {
-    "index": 993,
-    "unicode": "🎽"
+  "1f595": {
+    "index": 204,
+    "unicode": "🖕"
   },
-  "1f4ca": {
-    "index": 994,
-    "unicode": "📊"
+  "1f641": {
+    "index": 205,
+    "unicode": "🙁"
   },
-  "1f9fe": {
-    "index": 995,
-    "unicode": "🧾"
+  "1f915": {
+    "index": 206,
+    "unicode": "🤕"
   },
-  "1f9f4": {
-    "index": 996,
-    "unicode": "🧴"
+  "1f426": {
+    "index": 207,
+    "unicode": "🐦"
   },
-  "1f43d": {
-    "index": 997,
-    "unicode": "🐽"
+  "1f9af": {
+    "index": 208,
+    "unicode": "🦯"
   },
-  "1f4d3": {
-    "index": 998,
-    "unicode": "📓"
+  "1fad5": {
+    "index": 209,
+    "unicode": "🫕"
   },
-  "1f507": {
-    "index": 999,
-    "unicode": "🔇"
+  "1fad3": {
+    "index": 210,
+    "unicode": "🫓"
   },
-  "1f3b5": {
-    "index": 1000,
-    "unicode": "🎵"
+  "1f309": {
+    "index": 211,
+    "unicode": "🌉"
   },
-  "1f305": {
-    "index": 1001,
-    "unicode": "🌅"
+  "1f415": {
+    "index": 212,
+    "unicode": "🐕"
   },
-  "1fab0": {
-    "index": 1002,
-    "unicode": "🪰"
+  "26bd": {
+    "index": 213,
+    "unicode": "⚽"
   },
-  "1f9aa": {
-    "index": 1003,
-    "unicode": "🦪"
+  "1f19a": {
+    "index": 214,
+    "unicode": "🆚"
   },
-  "1f499": {
-    "index": 1004,
-    "unicode": "💙"
+  "1f6cc": {
+    "index": 215,
+    "unicode": "🛌"
   },
-  "1f691": {
-    "index": 1005,
-    "unicode": "🚑"
+  "1fab1": {
+    "index": 216,
+    "unicode": "🪱"
+  },
+  "1f936": {
+    "index": 217,
+    "unicode": "🤶"
+  },
+  "1f35a": {
+    "index": 218,
+    "unicode": "🍚"
+  },
+  "1f980": {
+    "index": 219,
+    "unicode": "🦀"
+  },
+  "1f62d": {
+    "index": 220,
+    "unicode": "😭"
+  },
+  "1f313": {
+    "index": 221,
+    "unicode": "🌓"
+  },
+  "1f3b6": {
+    "index": 222,
+    "unicode": "🎶"
+  },
+  "1f61c": {
+    "index": 223,
+    "unicode": "😜"
+  },
+  "1f6bd": {
+    "index": 224,
+    "unicode": "🚽"
+  },
+  "1f532": {
+    "index": 225,
+    "unicode": "🔲"
+  },
+  "1f9f1": {
+    "index": 226,
+    "unicode": "🧱"
+  },
+  "1f446": {
+    "index": 227,
+    "unicode": "👆"
+  },
+  "1f36b": {
+    "index": 228,
+    "unicode": "🍫"
+  },
+  "1f9c8": {
+    "index": 229,
+    "unicode": "🧈"
+  },
+  "1f91c": {
+    "index": 230,
+    "unicode": "🤜"
+  },
+  "1f9ac": {
+    "index": 231,
+    "unicode": "🦬"
+  },
+  "1f4cb": {
+    "index": 232,
+    "unicode": "📋"
+  },
+  "1f97a": {
+    "index": 233,
+    "unicode": "🥺"
+  },
+  "1f429": {
+    "index": 234,
+    "unicode": "🐩"
+  },
+  "1f9e8": {
+    "index": 235,
+    "unicode": "🧨"
+  },
+  "1f500": {
+    "index": 236,
+    "unicode": "🔀"
+  },
+  "1f9c3": {
+    "index": 237,
+    "unicode": "🧃"
+  },
+  "1f374": {
+    "index": 238,
+    "unicode": "🍴"
+  },
+  "1f63f": {
+    "index": 239,
+    "unicode": "😿"
+  },
+  "2653": {
+    "index": 240,
+    "unicode": "♓"
+  },
+  "1f48b": {
+    "index": 241,
+    "unicode": "💋"
+  },
+  "1f30b": {
+    "index": 242,
+    "unicode": "🌋"
+  },
+  "1f631": {
+    "index": 243,
+    "unicode": "😱"
+  },
+  "1f5fc": {
+    "index": 244,
+    "unicode": "🗼"
+  },
+  "1f49d": {
+    "index": 245,
+    "unicode": "💝"
+  },
+  "1f44a": {
+    "index": 246,
+    "unicode": "👊"
+  },
+  "1f38a": {
+    "index": 247,
+    "unicode": "🎊"
+  },
+  "1f4e4": {
+    "index": 248,
+    "unicode": "📤"
+  },
+  "1f523": {
+    "index": 249,
+    "unicode": "🔣"
+  },
+  "1f53d": {
+    "index": 250,
+    "unicode": "🔽"
+  },
+  "1f199": {
+    "index": 251,
+    "unicode": "🆙"
+  },
+  "1f502": {
+    "index": 252,
+    "unicode": "🔂"
+  },
+  "1f522": {
+    "index": 253,
+    "unicode": "🔢"
+  },
+  "1f91b": {
+    "index": 254,
+    "unicode": "🤛"
+  },
+  "1f919": {
+    "index": 255,
+    "unicode": "🤙"
+  },
+  "1f450": {
+    "index": 256,
+    "unicode": "👐"
+  },
+  "1f4cc": {
+    "index": 257,
+    "unicode": "📌"
+  },
+  "1f687": {
+    "index": 258,
+    "unicode": "🚇"
+  },
+  "1f4c3": {
+    "index": 259,
+    "unicode": "📃"
+  },
+  "1f943": {
+    "index": 260,
+    "unicode": "🥃"
+  },
+  "1f565": {
+    "index": 261,
+    "unicode": "🕥"
+  },
+  "1f393": {
+    "index": 262,
+    "unicode": "🎓"
+  },
+  "1f37c": {
+    "index": 263,
+    "unicode": "🍼"
+  },
+  "1f410": {
+    "index": 264,
+    "unicode": "🐐"
+  },
+  "1f378": {
+    "index": 265,
+    "unicode": "🍸"
+  },
+  "1f9ec": {
+    "index": 266,
+    "unicode": "🧬"
+  },
+  "1f391": {
+    "index": 267,
+    "unicode": "🎑"
+  },
+  "1f364": {
+    "index": 268,
+    "unicode": "🍤"
+  },
+  "1f4b7": {
+    "index": 269,
+    "unicode": "💷"
+  },
+  "1f6c3": {
+    "index": 270,
+    "unicode": "🛃"
+  },
+  "1f4c9": {
+    "index": 271,
+    "unicode": "📉"
+  },
+  "1f6a4": {
+    "index": 272,
+    "unicode": "🚤"
+  },
+  "1f9a5": {
+    "index": 273,
+    "unicode": "🦥"
+  },
+  "1f381": {
+    "index": 274,
+    "unicode": "🎁"
+  },
+  "1f503": {
+    "index": 275,
+    "unicode": "🔃"
+  },
+  "1f3d2": {
+    "index": 276,
+    "unicode": "🏒"
+  },
+  "1f37f": {
+    "index": 277,
+    "unicode": "🍿"
+  },
+  "1f98c": {
+    "index": 278,
+    "unicode": "🦌"
+  },
+  "2755": {
+    "index": 279,
+    "unicode": "❕"
   },
   "1f4f9": {
-    "index": 1006,
+    "index": 280,
     "unicode": "📹"
   },
-  "1f40e": {
-    "index": 1007,
-    "unicode": "🐎"
+  "1f506": {
+    "index": 281,
+    "unicode": "🔆"
   },
-  "1f9be": {
-    "index": 1008,
-    "unicode": "🦾"
+  "1f7e8": {
+    "index": 282,
+    "unicode": "🟨"
   },
-  "1f95b": {
-    "index": 1009,
-    "unicode": "🥛"
+  "1f516": {
+    "index": 283,
+    "unicode": "🔖"
+  },
+  "1f3a2": {
+    "index": 284,
+    "unicode": "🎢"
+  },
+  "1f191": {
+    "index": 285,
+    "unicode": "🆑"
+  },
+  "1faa3": {
+    "index": 286,
+    "unicode": "🪣"
+  },
+  "1f3b3": {
+    "index": 287,
+    "unicode": "🎳"
+  },
+  "1f696": {
+    "index": 288,
+    "unicode": "🚖"
+  },
+  "1f9de": {
+    "index": 289,
+    "unicode": "🧞"
+  },
+  "1f475": {
+    "index": 290,
+    "unicode": "👵"
+  },
+  "1f7ea": {
+    "index": 291,
+    "unicode": "🟪"
+  },
+  "264a": {
+    "index": 292,
+    "unicode": "♊"
+  },
+  "1f47d": {
+    "index": 293,
+    "unicode": "👽"
+  },
+  "1f527": {
+    "index": 294,
+    "unicode": "🔧"
+  },
+  "1f3ee": {
+    "index": 295,
+    "unicode": "🏮"
+  },
+  "1f356": {
+    "index": 296,
+    "unicode": "🍖"
+  },
+  "1f31d": {
+    "index": 297,
+    "unicode": "🌝"
+  },
+  "1f3e7": {
+    "index": 298,
+    "unicode": "🏧"
+  },
+  "1f3a0": {
+    "index": 299,
+    "unicode": "🎠"
+  },
+  "1f316": {
+    "index": 300,
+    "unicode": "🌖"
+  },
+  "1f4db": {
+    "index": 301,
+    "unicode": "📛"
+  },
+  "1f34a": {
+    "index": 302,
+    "unicode": "🍊"
+  },
+  "1f367": {
+    "index": 303,
+    "unicode": "🍧"
+  },
+  "1f437": {
+    "index": 304,
+    "unicode": "🐷"
+  },
+  "1f61d": {
+    "index": 305,
+    "unicode": "😝"
+  },
+  "1fab5": {
+    "index": 306,
+    "unicode": "🪵"
+  },
+  "1f6eb": {
+    "index": 307,
+    "unicode": "🛫"
+  },
+  "1f912": {
+    "index": 308,
+    "unicode": "🤒"
+  },
+  "1f988": {
+    "index": 309,
+    "unicode": "🦈"
+  },
+  "1f4b1": {
+    "index": 310,
+    "unicode": "💱"
+  },
+  "1f932": {
+    "index": 311,
+    "unicode": "🤲"
+  },
+  "1f355": {
+    "index": 312,
+    "unicode": "🍕"
+  },
+  "2795": {
+    "index": 313,
+    "unicode": "➕"
+  },
+  "1f55b": {
+    "index": 314,
+    "unicode": "🕛"
+  },
+  "1fa95": {
+    "index": 315,
+    "unicode": "🪕"
+  },
+  "1f9e5": {
+    "index": 316,
+    "unicode": "🧥"
+  },
+  "1f4d7": {
+    "index": 317,
+    "unicode": "📗"
+  },
+  "1f6c4": {
+    "index": 318,
+    "unicode": "🛄"
+  },
+  "1f417": {
+    "index": 319,
+    "unicode": "🐗"
+  },
+  "1f424": {
+    "index": 320,
+    "unicode": "🐤"
+  },
+  "2b50": {
+    "index": 321,
+    "unicode": "⭐"
+  },
+  "1f3be": {
+    "index": 322,
+    "unicode": "🎾"
+  },
+  "1f487": {
+    "index": 323,
+    "unicode": "💇"
+  },
+  "1f626": {
+    "index": 324,
+    "unicode": "😦"
+  },
+  "1f476": {
+    "index": 325,
+    "unicode": "👶"
+  },
+  "1f420": {
+    "index": 326,
+    "unicode": "🐠"
+  },
+  "1f4a8": {
+    "index": 327,
+    "unicode": "💨"
+  },
+  "1f383": {
+    "index": 328,
+    "unicode": "🎃"
+  },
+  "1f3aa": {
+    "index": 329,
+    "unicode": "🎪"
+  },
+  "1f4d0": {
+    "index": 330,
+    "unicode": "📐"
+  },
+  "1f4e9": {
+    "index": 331,
+    "unicode": "📩"
+  },
+  "1f68e": {
+    "index": 332,
+    "unicode": "🚎"
+  },
+  "26f5": {
+    "index": 333,
+    "unicode": "⛵"
+  },
+  "1f4f1": {
+    "index": 334,
+    "unicode": "📱"
+  },
+  "1f3a8": {
+    "index": 335,
+    "unicode": "🎨"
+  },
+  "1f3bb": {
+    "index": 336,
+    "unicode": "🎻"
+  },
+  "1f4ae": {
+    "index": 337,
+    "unicode": "💮"
+  },
+  "1fab3": {
+    "index": 338,
+    "unicode": "🪳"
+  },
+  "1f6f6": {
+    "index": 339,
+    "unicode": "🛶"
+  },
+  "1fab4": {
+    "index": 340,
+    "unicode": "🪴"
+  },
+  "1f3fa": {
+    "index": 341,
+    "unicode": "🏺"
+  },
+  "1f484": {
+    "index": 342,
+    "unicode": "💄"
+  },
+  "1f9a0": {
+    "index": 343,
+    "unicode": "🦠"
+  },
+  "1f9fb": {
+    "index": 344,
+    "unicode": "🧻"
+  },
+  "1f4e8": {
+    "index": 345,
+    "unicode": "📨"
+  },
+  "1f95a": {
+    "index": 346,
+    "unicode": "🥚"
+  },
+  "1f9c0": {
+    "index": 347,
+    "unicode": "🧀"
+  },
+  "1f51c": {
+    "index": 348,
+    "unicode": "🔜"
+  },
+  "1f57a": {
+    "index": 349,
+    "unicode": "🕺"
+  },
+  "1f6be": {
+    "index": 350,
+    "unicode": "🚾"
+  },
+  "1f3e3": {
+    "index": 351,
+    "unicode": "🏣"
+  },
+  "1f6a9": {
+    "index": 352,
+    "unicode": "🚩"
+  },
+  "1f9d8": {
+    "index": 353,
+    "unicode": "🧘"
+  },
+  "1f4a1": {
+    "index": 354,
+    "unicode": "💡"
+  },
+  "1f52e": {
+    "index": 355,
+    "unicode": "🔮"
+  },
+  "1f9d6": {
+    "index": 356,
+    "unicode": "🧖"
+  },
+  "1f947": {
+    "index": 357,
+    "unicode": "🥇"
+  },
+  "1f3ad": {
+    "index": 358,
+    "unicode": "🎭"
+  },
+  "1f477": {
+    "index": 359,
+    "unicode": "👷"
+  },
+  "1f51a": {
+    "index": 360,
+    "unicode": "🔚"
+  },
+  "1f688": {
+    "index": 361,
+    "unicode": "🚈"
+  },
+  "1f201": {
+    "index": 362,
+    "unicode": "🈁"
+  },
+  "1f9b3": {
+    "index": 363,
+    "unicode": "🦳"
+  },
+  "1f9ae": {
+    "index": 364,
+    "unicode": "🦮"
+  },
+  "1f95f": {
+    "index": 365,
+    "unicode": "🥟"
+  },
+  "1f474": {
+    "index": 366,
+    "unicode": "👴"
+  },
+  "1f0cf": {
+    "index": 367,
+    "unicode": "🃏"
+  },
+  "1f632": {
+    "index": 368,
+    "unicode": "😲"
+  },
+  "2b1c": {
+    "index": 369,
+    "unicode": "⬜"
+  },
+  "1f35f": {
+    "index": 370,
+    "unicode": "🍟"
+  },
+  "1f371": {
+    "index": 371,
+    "unicode": "🍱"
+  },
+  "1f4ab": {
+    "index": 372,
+    "unicode": "💫"
+  },
+  "1f959": {
+    "index": 373,
+    "unicode": "🥙"
+  },
+  "1f416": {
+    "index": 374,
+    "unicode": "🐖"
+  },
+  "1f32e": {
+    "index": 375,
+    "unicode": "🌮"
+  },
+  "1f9df": {
+    "index": 376,
+    "unicode": "🧟"
+  },
+  "1f95e": {
+    "index": 377,
+    "unicode": "🥞"
+  },
+  "26be": {
+    "index": 378,
+    "unicode": "⚾"
+  },
+  "1f910": {
+    "index": 379,
+    "unicode": "🤐"
+  },
+  "1f497": {
+    "index": 380,
+    "unicode": "💗"
+  },
+  "1f42d": {
+    "index": 381,
+    "unicode": "🐭"
+  },
+  "1f526": {
+    "index": 382,
+    "unicode": "🔦"
+  },
+  "1f62c": {
+    "index": 383,
+    "unicode": "😬"
+  },
+  "1f93e": {
+    "index": 384,
+    "unicode": "🤾"
+  },
+  "1f463": {
+    "index": 385,
+    "unicode": "👣"
+  },
+  "1f38d": {
+    "index": 386,
+    "unicode": "🎍"
+  },
+  "1f916": {
+    "index": 387,
+    "unicode": "🤖"
+  },
+  "1f46b": {
+    "index": 388,
+    "unicode": "👫"
+  },
+  "1f418": {
+    "index": 389,
+    "unicode": "🐘"
+  },
+  "1f6d6": {
+    "index": 390,
+    "unicode": "🛖"
+  },
+  "264d": {
+    "index": 391,
+    "unicode": "♍"
+  },
+  "1f9d3": {
+    "index": 392,
+    "unicode": "🧓"
+  },
+  "1f318": {
+    "index": 393,
+    "unicode": "🌘"
+  },
+  "1f3f9": {
+    "index": 394,
+    "unicode": "🏹"
+  },
+  "1f6c2": {
+    "index": 395,
+    "unicode": "🛂"
+  },
+  "1f3d3": {
+    "index": 396,
+    "unicode": "🏓"
+  },
+  "1f695": {
+    "index": 397,
+    "unicode": "🚕"
+  },
+  "1f975": {
+    "index": 398,
+    "unicode": "🥵"
+  },
+  "1f995": {
+    "index": 399,
+    "unicode": "🦕"
+  },
+  "1f6f7": {
+    "index": 400,
+    "unicode": "🛷"
+  },
+  "1f55e": {
+    "index": 401,
+    "unicode": "🕞"
+  },
+  "1f68c": {
+    "index": 402,
+    "unicode": "🚌"
+  },
+  "1f41a": {
+    "index": 403,
+    "unicode": "🐚"
+  },
+  "1f630": {
+    "index": 404,
+    "unicode": "😰"
+  },
+  "1f481": {
+    "index": 405,
+    "unicode": "💁"
+  },
+  "1f64b": {
+    "index": 406,
+    "unicode": "🙋"
+  },
+  "1f99e": {
+    "index": 407,
+    "unicode": "🦞"
+  },
+  "1f553": {
+    "index": 408,
+    "unicode": "🕓"
+  },
+  "1f311": {
+    "index": 409,
+    "unicode": "🌑"
+  },
+  "1f976": {
+    "index": 410,
+    "unicode": "🥶"
+  },
+  "1f60b": {
+    "index": 411,
+    "unicode": "😋"
+  },
+  "1f92b": {
+    "index": 412,
+    "unicode": "🤫"
+  },
+  "1f514": {
+    "index": 413,
+    "unicode": "🔔"
+  },
+  "1f9d1": {
+    "index": 414,
+    "unicode": "🧑"
+  },
+  "1f614": {
+    "index": 415,
+    "unicode": "😔"
+  },
+  "1fa74": {
+    "index": 416,
+    "unicode": "🩴"
+  },
+  "264c": {
+    "index": 417,
+    "unicode": "♌"
+  },
+  "1f557": {
+    "index": 418,
+    "unicode": "🕗"
+  },
+  "1f4ba": {
+    "index": 419,
+    "unicode": "💺"
+  },
+  "1f4a3": {
+    "index": 420,
+    "unicode": "💣"
+  },
+  "1f985": {
+    "index": 421,
+    "unicode": "🦅"
+  },
+  "1f9e2": {
+    "index": 422,
+    "unicode": "🧢"
+  },
+  "1faa0": {
+    "index": 423,
+    "unicode": "🪠"
+  },
+  "1f9d5": {
+    "index": 424,
+    "unicode": "🧕"
+  },
+  "1f69d": {
+    "index": 425,
+    "unicode": "🚝"
+  },
+  "1f94e": {
+    "index": 426,
+    "unicode": "🥎"
+  },
+  "1f50e": {
+    "index": 427,
+    "unicode": "🔎"
+  },
+  "1f48c": {
+    "index": 428,
+    "unicode": "💌"
+  },
+  "1f456": {
+    "index": 429,
+    "unicode": "👖"
+  },
+  "1f4c2": {
+    "index": 430,
+    "unicode": "📂"
+  },
+  "1f30a": {
+    "index": 431,
+    "unicode": "🌊"
+  },
+  "1f34c": {
+    "index": 432,
+    "unicode": "🍌"
+  },
+  "1f49c": {
+    "index": 433,
+    "unicode": "💜"
+  },
+  "1f4a7": {
+    "index": 434,
+    "unicode": "💧"
+  },
+  "1f9a9": {
+    "index": 435,
+    "unicode": "🦩"
+  },
+  "1f361": {
+    "index": 436,
+    "unicode": "🍡"
+  },
+  "1f405": {
+    "index": 437,
+    "unicode": "🐅"
+  },
+  "1f3e8": {
+    "index": 438,
+    "unicode": "🏨"
+  },
+  "1f639": {
+    "index": 439,
+    "unicode": "😹"
+  },
+  "1f9b4": {
+    "index": 440,
+    "unicode": "🦴"
+  },
+  "231a": {
+    "index": 441,
+    "unicode": "⌚"
+  },
+  "1f30c": {
+    "index": 442,
+    "unicode": "🌌"
+  },
+  "1f636": {
+    "index": 443,
+    "unicode": "😶"
+  },
+  "1f4da": {
+    "index": 444,
+    "unicode": "📚"
+  },
+  "1f7e1": {
+    "index": 445,
+    "unicode": "🟡"
+  },
+  "1f6c5": {
+    "index": 446,
+    "unicode": "🛅"
+  },
+  "1f511": {
+    "index": 447,
+    "unicode": "🔑"
+  },
+  "1f997": {
+    "index": 448,
+    "unicode": "🦗"
+  },
+  "1f4f8": {
+    "index": 449,
+    "unicode": "📸"
+  },
+  "1f99f": {
+    "index": 450,
+    "unicode": "🦟"
+  },
+  "1f337": {
+    "index": 451,
+    "unicode": "🌷"
+  },
+  "1f35c": {
+    "index": 452,
+    "unicode": "🍜"
+  },
+  "26f3": {
+    "index": 453,
+    "unicode": "⛳"
+  },
+  "1f562": {
+    "index": 454,
+    "unicode": "🕢"
+  },
+  "1f300": {
+    "index": 455,
+    "unicode": "🌀"
+  },
+  "1f54d": {
+    "index": 456,
+    "unicode": "🕍"
+  },
+  "1f3c7": {
+    "index": 457,
+    "unicode": "🏇"
+  },
+  "1f624": {
+    "index": 458,
+    "unicode": "😤"
+  },
+  "1f95c": {
+    "index": 459,
+    "unicode": "🥜"
+  },
+  "1f64d": {
+    "index": 460,
+    "unicode": "🙍"
+  },
+  "1f4ef": {
+    "index": 461,
+    "unicode": "📯"
+  },
+  "1f992": {
+    "index": 462,
+    "unicode": "🦒"
+  },
+  "1f97b": {
+    "index": 463,
+    "unicode": "🥻"
+  },
+  "1f37a": {
+    "index": 464,
+    "unicode": "🍺"
+  },
+  "1faa8": {
+    "index": 465,
+    "unicode": "🪨"
+  },
+  "1f35d": {
+    "index": 466,
+    "unicode": "🍝"
+  },
+  "1f40c": {
+    "index": 467,
+    "unicode": "🐌"
+  },
+  "1f638": {
+    "index": 468,
+    "unicode": "😸"
+  },
+  "1f36c": {
+    "index": 469,
+    "unicode": "🍬"
+  },
+  "1f317": {
+    "index": 470,
+    "unicode": "🌗"
+  },
+  "1f54b": {
+    "index": 471,
+    "unicode": "🕋"
+  },
+  "1f363": {
+    "index": 472,
+    "unicode": "🍣"
+  },
+  "1f685": {
+    "index": 473,
+    "unicode": "🚅"
+  },
+  "1f197": {
+    "index": 474,
+    "unicode": "🆗"
+  },
+  "1f9c7": {
+    "index": 475,
+    "unicode": "🧇"
+  },
+  "1f339": {
+    "index": 476,
+    "unicode": "🌹"
+  },
+  "1f4a4": {
+    "index": 477,
+    "unicode": "💤"
+  },
+  "2754": {
+    "index": 478,
+    "unicode": "❔"
+  },
+  "1f3c5": {
+    "index": 479,
+    "unicode": "🏅"
+  },
+  "1f9a8": {
+    "index": 480,
+    "unicode": "🦨"
+  },
+  "1f917": {
+    "index": 481,
+    "unicode": "🤗"
+  },
+  "1fa71": {
+    "index": 482,
+    "unicode": "🩱"
+  },
+  "1f349": {
+    "index": 483,
+    "unicode": "🍉"
+  },
+  "1f4b3": {
+    "index": 484,
+    "unicode": "💳"
+  },
+  "1f628": {
+    "index": 485,
+    "unicode": "😨"
+  },
+  "1f42c": {
+    "index": 486,
+    "unicode": "🐬"
+  },
+  "26fd": {
+    "index": 487,
+    "unicode": "⛽"
+  },
+  "1f6b8": {
+    "index": 488,
+    "unicode": "🚸"
+  },
+  "1f6f5": {
+    "index": 489,
+    "unicode": "🛵"
+  },
+  "1f38c": {
+    "index": 490,
+    "unicode": "🎌"
+  },
+  "1f48f": {
+    "index": 491,
+    "unicode": "💏"
+  },
+  "1f7e2": {
+    "index": 492,
+    "unicode": "🟢"
+  },
+  "1f6b4": {
+    "index": 493,
+    "unicode": "🚴"
+  },
+  "1f9f2": {
+    "index": 494,
+    "unicode": "🧲"
+  },
+  "1f306": {
+    "index": 495,
+    "unicode": "🌆"
+  },
+  "1f60e": {
+    "index": 496,
+    "unicode": "😎"
+  },
+  "1f64a": {
+    "index": 497,
+    "unicode": "🙊"
+  },
+  "1f978": {
+    "index": 498,
+    "unicode": "🥸"
+  },
+  "1f5fe": {
+    "index": 499,
+    "unicode": "🗾"
+  },
+  "1f335": {
+    "index": 500,
+    "unicode": "🌵"
+  },
+  "1f536": {
+    "index": 501,
+    "unicode": "🔶"
+  },
+  "1f33b": {
+    "index": 502,
+    "unicode": "🌻"
+  },
+  "1f304": {
+    "index": 503,
+    "unicode": "🌄"
+  },
+  "1f974": {
+    "index": 504,
+    "unicode": "🥴"
+  },
+  "264f": {
+    "index": 505,
+    "unicode": "♏"
+  },
+  "1f9e7": {
+    "index": 506,
+    "unicode": "🧧"
+  },
+  "1fa91": {
+    "index": 507,
+    "unicode": "🪑"
+  },
+  "1f9a3": {
+    "index": 508,
+    "unicode": "🦣"
+  },
+  "1f51e": {
+    "index": 509,
+    "unicode": "🔞"
+  },
+  "1f462": {
+    "index": 510,
+    "unicode": "👢"
+  },
+  "1f94d": {
+    "index": 511,
+    "unicode": "🥍"
+  },
+  "1f46d": {
+    "index": 512,
+    "unicode": "👭"
   },
   "1f6a0": {
-    "index": 1010,
+    "index": 513,
     "unicode": "🚠"
   },
-  "1f4e3": {
-    "index": 1011,
-    "unicode": "📣"
+  "23f3": {
+    "index": 514,
+    "unicode": "⏳"
+  },
+  "27bf": {
+    "index": 515,
+    "unicode": "➿"
+  },
+  "1fac0": {
+    "index": 516,
+    "unicode": "🫀"
+  },
+  "1fa9b": {
+    "index": 517,
+    "unicode": "🪛"
+  },
+  "1f9ed": {
+    "index": 518,
+    "unicode": "🧭"
+  },
+  "1fa82": {
+    "index": 519,
+    "unicode": "🪂"
+  },
+  "1f9d0": {
+    "index": 520,
+    "unicode": "🧐"
+  },
+  "1f4a0": {
+    "index": 521,
+    "unicode": "💠"
+  },
+  "1f43e": {
+    "index": 522,
+    "unicode": "🐾"
+  },
+  "1f633": {
+    "index": 523,
+    "unicode": "😳"
+  },
+  "1f91f": {
+    "index": 524,
+    "unicode": "🤟"
   },
   "2652": {
-    "index": 1012,
+    "index": 525,
     "unicode": "♒"
+  },
+  "1f537": {
+    "index": 526,
+    "unicode": "🔷"
+  },
+  "1f9f4": {
+    "index": 527,
+    "unicode": "🧴"
+  },
+  "1f55a": {
+    "index": 528,
+    "unicode": "🕚"
+  },
+  "1f5fd": {
+    "index": 529,
+    "unicode": "🗽"
+  },
+  "1f90e": {
+    "index": 530,
+    "unicode": "🤎"
+  },
+  "1f310": {
+    "index": 531,
+    "unicode": "🌐"
+  },
+  "1f3e4": {
+    "index": 532,
+    "unicode": "🏤"
+  },
+  "1f402": {
+    "index": 533,
+    "unicode": "🐂"
+  },
+  "1f4e0": {
+    "index": 534,
+    "unicode": "📠"
+  },
+  "1f4d6": {
+    "index": 535,
+    "unicode": "📖"
+  },
+  "1f560": {
+    "index": 536,
+    "unicode": "🕠"
+  },
+  "1f42e": {
+    "index": 537,
+    "unicode": "🐮"
+  },
+  "1fa97": {
+    "index": 538,
+    "unicode": "🪗"
+  },
+  "1f411": {
+    "index": 539,
+    "unicode": "🐑"
+  },
+  "1f6f4": {
+    "index": 540,
+    "unicode": "🛴"
+  },
+  "1f520": {
+    "index": 541,
+    "unicode": "🔠"
+  },
+  "2757": {
+    "index": 542,
+    "unicode": "❗"
+  },
+  "1f6d1": {
+    "index": 543,
+    "unicode": "🛑"
+  },
+  "1f93a": {
+    "index": 544,
+    "unicode": "🤺"
+  },
+  "1f519": {
+    "index": 545,
+    "unicode": "🔙"
+  },
+  "1f96a": {
+    "index": 546,
+    "unicode": "🥪"
+  },
+  "1fa80": {
+    "index": 547,
+    "unicode": "🪀"
+  },
+  "1f38e": {
+    "index": 548,
+    "unicode": "🎎"
+  },
+  "1f427": {
+    "index": 549,
+    "unicode": "🐧"
+  },
+  "1f30d": {
+    "index": 550,
+    "unicode": "🌍"
+  },
+  "1f379": {
+    "index": 551,
+    "unicode": "🍹"
+  },
+  "1fa72": {
+    "index": 552,
+    "unicode": "🩲"
+  },
+  "1f4af": {
+    "index": 553,
+    "unicode": "💯"
+  },
+  "1f69e": {
+    "index": 554,
+    "unicode": "🚞"
+  },
+  "1f95b": {
+    "index": 555,
+    "unicode": "🥛"
+  },
+  "1f689": {
+    "index": 556,
+    "unicode": "🚉"
+  },
+  "1f434": {
+    "index": 557,
+    "unicode": "🐴"
+  },
+  "1f7e9": {
+    "index": 558,
+    "unicode": "🟩"
+  },
+  "1f629": {
+    "index": 559,
+    "unicode": "😩"
+  },
+  "1f68a": {
+    "index": 560,
+    "unicode": "🚊"
+  },
+  "23e9": {
+    "index": 561,
+    "unicode": "⏩"
+  },
+  "1f49b": {
+    "index": 562,
+    "unicode": "💛"
+  },
+  "1f412": {
+    "index": 563,
+    "unicode": "🐒"
+  },
+  "1f9ea": {
+    "index": 564,
+    "unicode": "🧪"
+  },
+  "1f3ab": {
+    "index": 565,
+    "unicode": "🎫"
+  },
+  "1f9d9": {
+    "index": 566,
+    "unicode": "🧙"
+  },
+  "1f41e": {
+    "index": 567,
+    "unicode": "🐞"
+  },
+  "1f4ad": {
+    "index": 568,
+    "unicode": "💭"
+  },
+  "1f499": {
+    "index": 569,
+    "unicode": "💙"
+  },
+  "1f47a": {
+    "index": 570,
+    "unicode": "👺"
+  },
+  "1f53b": {
+    "index": 571,
+    "unicode": "🔻"
+  },
+  "1f9ad": {
+    "index": 572,
+    "unicode": "🦭"
+  },
+  "1f9b1": {
+    "index": 573,
+    "unicode": "🦱"
+  },
+  "1f403": {
+    "index": 574,
+    "unicode": "🐃"
+  },
+  "1f6aa": {
+    "index": 575,
+    "unicode": "🚪"
+  },
+  "1f3e6": {
+    "index": 576,
+    "unicode": "🏦"
+  },
+  "1f48d": {
+    "index": 577,
+    "unicode": "💍"
+  },
+  "1fab0": {
+    "index": 578,
+    "unicode": "🪰"
+  },
+  "1f345": {
+    "index": 579,
+    "unicode": "🍅"
+  },
+  "1f96c": {
+    "index": 580,
+    "unicode": "🥬"
+  },
+  "1f45b": {
+    "index": 581,
+    "unicode": "👛"
+  },
+  "1f315": {
+    "index": 582,
+    "unicode": "🌕"
+  },
+  "1f918": {
+    "index": 583,
+    "unicode": "🤘"
+  },
+  "1f928": {
+    "index": 584,
+    "unicode": "🤨"
+  },
+  "1f9db": {
+    "index": 585,
+    "unicode": "🧛"
+  },
+  "1f198": {
+    "index": 586,
+    "unicode": "🆘"
+  },
+  "1f6b0": {
+    "index": 587,
+    "unicode": "🚰"
+  },
+  "1fa7a": {
+    "index": 588,
+    "unicode": "🩺"
+  },
+  "1f6ba": {
+    "index": 589,
+    "unicode": "🚺"
+  },
+  "1f93d": {
+    "index": 590,
+    "unicode": "🤽"
+  },
+  "1f4c0": {
+    "index": 591,
+    "unicode": "📀"
+  },
+  "1f692": {
+    "index": 592,
+    "unicode": "🚒"
+  },
+  "1f925": {
+    "index": 593,
+    "unicode": "🤥"
+  },
+  "1f993": {
+    "index": 594,
+    "unicode": "🦓"
+  },
+  "1f61f": {
+    "index": 595,
+    "unicode": "😟"
+  },
+  "1f964": {
+    "index": 596,
+    "unicode": "🥤"
+  },
+  "1f691": {
+    "index": 597,
+    "unicode": "🚑"
+  },
+  "1f4f5": {
+    "index": 598,
+    "unicode": "📵"
+  },
+  "1f43b": {
+    "index": 599,
+    "unicode": "🐻"
+  },
+  "1f494": {
+    "index": 600,
+    "unicode": "💔"
+  },
+  "1f966": {
+    "index": 601,
+    "unicode": "🥦"
+  },
+  "1f954": {
+    "index": 602,
+    "unicode": "🥔"
+  },
+  "1f4d9": {
+    "index": 603,
+    "unicode": "📙"
+  },
+  "1f3a7": {
+    "index": 604,
+    "unicode": "🎧"
+  },
+  "1fab2": {
+    "index": 605,
+    "unicode": "🪲"
+  },
+  "1f968": {
+    "index": 606,
+    "unicode": "🥨"
+  },
+  "1f3d0": {
+    "index": 607,
+    "unicode": "🏐"
+  },
+  "1f3ac": {
+    "index": 608,
+    "unicode": "🎬"
+  },
+  "1f949": {
+    "index": 609,
+    "unicode": "🥉"
+  },
+  "1f646": {
+    "index": 610,
+    "unicode": "🙆"
+  },
+  "1f453": {
+    "index": 611,
+    "unicode": "👓"
+  },
+  "1f319": {
+    "index": 612,
+    "unicode": "🌙"
+  },
+  "1f971": {
+    "index": 613,
+    "unicode": "🥱"
+  },
+  "1f4bb": {
+    "index": 614,
+    "unicode": "💻"
+  },
+  "26d4": {
+    "index": 615,
+    "unicode": "⛔"
+  },
+  "1f4bf": {
+    "index": 616,
+    "unicode": "💿"
+  },
+  "1f6a1": {
+    "index": 617,
+    "unicode": "🚡"
+  },
+  "1faa1": {
+    "index": 618,
+    "unicode": "🪡"
+  },
+  "1f69a": {
+    "index": 619,
+    "unicode": "🚚"
+  },
+  "1f46f": {
+    "index": 620,
+    "unicode": "👯"
+  },
+  "1f52b": {
+    "index": 621,
+    "unicode": "🔫"
+  },
+  "1f33c": {
+    "index": 622,
+    "unicode": "🌼"
+  },
+  "1f6fb": {
+    "index": 623,
+    "unicode": "🛻"
+  },
+  "1f34f": {
+    "index": 624,
+    "unicode": "🍏"
+  },
+  "1f680": {
+    "index": 625,
+    "unicode": "🚀"
+  },
+  "1f3d1": {
+    "index": 626,
+    "unicode": "🏑"
+  },
+  "1f9fe": {
+    "index": 627,
+    "unicode": "🧾"
+  },
+  "1f384": {
+    "index": 628,
+    "unicode": "🎄"
+  },
+  "1f944": {
+    "index": 629,
+    "unicode": "🥄"
+  },
+  "1f34b": {
+    "index": 630,
+    "unicode": "🍋"
+  },
+  "1f196": {
+    "index": 631,
+    "unicode": "🆖"
+  },
+  "1f95d": {
+    "index": 632,
+    "unicode": "🥝"
+  },
+  "1f33f": {
+    "index": 633,
+    "unicode": "🌿"
+  },
+  "1f6c0": {
+    "index": 634,
+    "unicode": "🛀"
+  },
+  "1f492": {
+    "index": 635,
+    "unicode": "💒"
+  },
+  "270a": {
+    "index": 636,
+    "unicode": "✊"
+  },
+  "1fad0": {
+    "index": 637,
+    "unicode": "🫐"
+  },
+  "1f9fa": {
+    "index": 638,
+    "unicode": "🧺"
+  },
+  "1f96d": {
+    "index": 639,
+    "unicode": "🥭"
+  },
+  "1f31f": {
+    "index": 640,
+    "unicode": "🌟"
+  },
+  "2796": {
+    "index": 641,
+    "unicode": "➖"
+  },
+  "270b": {
+    "index": 642,
+    "unicode": "✋"
+  },
+  "1f6c1": {
+    "index": 643,
+    "unicode": "🛁"
+  },
+  "1f4bd": {
+    "index": 644,
+    "unicode": "💽"
+  },
+  "1f96b": {
+    "index": 645,
+    "unicode": "🥫"
+  },
+  "1f9c6": {
+    "index": 646,
+    "unicode": "🧆"
+  },
+  "1f509": {
+    "index": 647,
+    "unicode": "🔉"
+  },
+  "1f62f": {
+    "index": 648,
+    "unicode": "😯"
+  },
+  "1fa81": {
+    "index": 649,
+    "unicode": "🪁"
+  },
+  "1f3a1": {
+    "index": 650,
+    "unicode": "🎡"
+  },
+  "1f534": {
+    "index": 651,
+    "unicode": "🔴"
+  },
+  "1f460": {
+    "index": 652,
+    "unicode": "👠"
+  },
+  "1f63a": {
+    "index": 653,
+    "unicode": "😺"
+  },
+  "1f550": {
+    "index": 654,
+    "unicode": "🕐"
+  },
+  "1f4ac": {
+    "index": 655,
+    "unicode": "💬"
+  },
+  "1f55c": {
+    "index": 656,
+    "unicode": "🕜"
+  },
+  "1f9a6": {
+    "index": 657,
+    "unicode": "🦦"
+  },
+  "1f9dd": {
+    "index": 658,
+    "unicode": "🧝"
+  },
+  "1f528": {
+    "index": 659,
+    "unicode": "🔨"
+  },
+  "1faa6": {
+    "index": 660,
+    "unicode": "🪦"
+  },
+  "1f433": {
+    "index": 661,
+    "unicode": "🐳"
+  },
+  "1f3ed": {
+    "index": 662,
+    "unicode": "🏭"
+  },
+  "1f6d7": {
+    "index": 663,
+    "unicode": "🛗"
+  },
+  "1f4ca": {
+    "index": 664,
+    "unicode": "📊"
+  },
+  "1f913": {
+    "index": 665,
+    "unicode": "🤓"
+  },
+  "1f9ff": {
+    "index": 666,
+    "unicode": "🧿"
+  },
+  "1f937": {
+    "index": 667,
+    "unicode": "🤷"
+  },
+  "1f94f": {
+    "index": 668,
+    "unicode": "🥏"
+  },
+  "1f3b8": {
+    "index": 669,
+    "unicode": "🎸"
+  },
+  "1f451": {
+    "index": 670,
+    "unicode": "👑"
+  },
+  "1f552": {
+    "index": 671,
+    "unicode": "🕒"
+  },
+  "1f621": {
+    "index": 672,
+    "unicode": "😡"
+  },
+  "1f44d": {
+    "index": 673,
+    "unicode": "👍"
+  },
+  "1f3b5": {
+    "index": 674,
+    "unicode": "🎵"
+  },
+  "1f301": {
+    "index": 675,
+    "unicode": "🌁"
+  },
+  "1f9fd": {
+    "index": 676,
+    "unicode": "🧽"
+  },
+  "1f38f": {
+    "index": 677,
+    "unicode": "🎏"
+  },
+  "1f392": {
+    "index": 678,
+    "unicode": "🎒"
+  },
+  "1f9cf": {
+    "index": 679,
+    "unicode": "🧏"
+  },
+  "1f934": {
+    "index": 680,
+    "unicode": "🤴"
+  },
+  "1f556": {
+    "index": 681,
+    "unicode": "🕖"
+  },
+  "1f635": {
+    "index": 682,
+    "unicode": "😵"
+  },
+  "1f9c9": {
+    "index": 683,
+    "unicode": "🧉"
+  },
+  "2693": {
+    "index": 684,
+    "unicode": "⚓"
+  },
+  "1f193": {
+    "index": 685,
+    "unicode": "🆓"
+  },
+  "1fa86": {
+    "index": 686,
+    "unicode": "🪆"
+  },
+  "1f348": {
+    "index": 687,
+    "unicode": "🍈"
+  },
+  "1f50a": {
+    "index": 688,
+    "unicode": "🔊"
+  },
+  "1f3ae": {
+    "index": 689,
+    "unicode": "🎮"
+  },
+  "1f52d": {
+    "index": 690,
+    "unicode": "🔭"
+  },
+  "1f563": {
+    "index": 691,
+    "unicode": "🕣"
+  },
+  "1f233": {
+    "index": 692,
+    "unicode": "🈳"
+  },
+  "1f941": {
+    "index": 693,
+    "unicode": "🥁"
+  },
+  "1f99d": {
+    "index": 694,
+    "unicode": "🦝"
+  },
+  "1f4c1": {
+    "index": 695,
+    "unicode": "📁"
+  },
+  "fe0f": {
+    "index": 696,
+    "unicode": "️"
+  },
+  "1f423": {
+    "index": 697,
+    "unicode": "🐣"
+  },
+  "1f9f8": {
+    "index": 698,
+    "unicode": "🧸"
+  },
+  "1f9b7": {
+    "index": 699,
+    "unicode": "🦷"
+  },
+  "1f608": {
+    "index": 700,
+    "unicode": "😈"
+  },
+  "1f62e": {
+    "index": 701,
+    "unicode": "😮"
+  },
+  "1f458": {
+    "index": 702,
+    "unicode": "👘"
+  },
+  "1f21a": {
+    "index": 703,
+    "unicode": "🈚"
+  },
+  "1f432": {
+    "index": 704,
+    "unicode": "🐲"
+  },
+  "1f683": {
+    "index": 705,
+    "unicode": "🚃"
+  },
+  "1f445": {
+    "index": 706,
+    "unicode": "👅"
+  },
+  "1f52a": {
+    "index": 707,
+    "unicode": "🔪"
+  },
+  "1f4e3": {
+    "index": 708,
+    "unicode": "📣"
+  },
+  "1f7e5": {
+    "index": 709,
+    "unicode": "🟥"
+  },
+  "1f3b2": {
+    "index": 710,
+    "unicode": "🎲"
+  },
+  "1f390": {
+    "index": 711,
+    "unicode": "🎐"
+  },
+  "1f53c": {
+    "index": 712,
+    "unicode": "🔼"
+  },
+  "1f34d": {
+    "index": 713,
+    "unicode": "🍍"
+  },
+  "1f40e": {
+    "index": 714,
+    "unicode": "🐎"
+  },
+  "1f991": {
+    "index": 715,
+    "unicode": "🦑"
+  },
+  "1f4cd": {
+    "index": 716,
+    "unicode": "📍"
+  },
+  "1f457": {
+    "index": 717,
+    "unicode": "👗"
+  },
+  "1f60f": {
+    "index": 718,
+    "unicode": "😏"
+  },
+  "2b1b": {
+    "index": 719,
+    "unicode": "⬛"
+  },
+  "1f90d": {
+    "index": 720,
+    "unicode": "🤍"
+  },
+  "1f96f": {
+    "index": 721,
+    "unicode": "🥯"
+  },
+  "1f987": {
+    "index": 722,
+    "unicode": "🦇"
+  },
+  "1f4a5": {
+    "index": 723,
+    "unicode": "💥"
+  },
+  "1f68d": {
+    "index": 724,
+    "unicode": "🚍"
+  },
+  "1f343": {
+    "index": 725,
+    "unicode": "🍃"
+  },
+  "1f34e": {
+    "index": 726,
+    "unicode": "🍎"
+  },
+  "2728": {
+    "index": 727,
+    "unicode": "✨"
+  },
+  "1f44c": {
+    "index": 728,
+    "unicode": "👌"
+  },
+  "1f486": {
+    "index": 729,
+    "unicode": "💆"
+  },
+  "1f6b3": {
+    "index": 730,
+    "unicode": "🚳"
+  },
+  "1f38b": {
+    "index": 731,
+    "unicode": "🎋"
+  },
+  "1f9fc": {
+    "index": 732,
+    "unicode": "🧼"
+  },
+  "1f425": {
+    "index": 733,
+    "unicode": "🐥"
+  },
+  "1f495": {
+    "index": 734,
+    "unicode": "💕"
+  },
+  "1f303": {
+    "index": 735,
+    "unicode": "🌃"
+  },
+  "1f50b": {
+    "index": 736,
+    "unicode": "🔋"
+  },
+  "1f41d": {
+    "index": 737,
+    "unicode": "🐝"
+  },
+  "1f6ae": {
+    "index": 738,
+    "unicode": "🚮"
+  },
+  "2705": {
+    "index": 739,
+    "unicode": "✅"
+  },
+  "1f4c6": {
+    "index": 740,
+    "unicode": "📆"
+  },
+  "1f977": {
+    "index": 741,
+    "unicode": "🥷"
+  },
+  "1f613": {
+    "index": 742,
+    "unicode": "😓"
+  },
+  "1f369": {
+    "index": 743,
+    "unicode": "🍩"
+  },
+  "1f3a6": {
+    "index": 744,
+    "unicode": "🎦"
+  },
+  "1f525": {
+    "index": 745,
+    "unicode": "🔥"
+  },
+  "1f31c": {
+    "index": 746,
+    "unicode": "🌜"
+  },
+  "26f2": {
+    "index": 747,
+    "unicode": "⛲"
+  },
+  "1f6b6": {
+    "index": 748,
+    "unicode": "🚶"
+  },
+  "1f986": {
+    "index": 749,
+    "unicode": "🦆"
+  },
+  "1f37e": {
+    "index": 750,
+    "unicode": "🍾"
+  },
+  "1f9e0": {
+    "index": 751,
+    "unicode": "🧠"
+  },
+  "25fd": {
+    "index": 752,
+    "unicode": "◽"
+  },
+  "1f35e": {
+    "index": 753,
+    "unicode": "🍞"
+  },
+  "1f9f7": {
+    "index": 754,
+    "unicode": "🧷"
+  },
+  "1f23a": {
+    "index": 755,
+    "unicode": "🈺"
+  },
+  "1f467": {
+    "index": 756,
+    "unicode": "👧"
+  },
+  "1f3ea": {
+    "index": 757,
+    "unicode": "🏪"
+  },
+  "1f61e": {
+    "index": 758,
+    "unicode": "😞"
+  },
+  "1f45a": {
+    "index": 759,
+    "unicode": "👚"
+  },
+  "1f32f": {
+    "index": 760,
+    "unicode": "🌯"
+  },
+  "1f4ea": {
+    "index": 761,
+    "unicode": "📪"
+  },
+  "1f627": {
+    "index": 762,
+    "unicode": "😧"
+  },
+  "1f238": {
+    "index": 763,
+    "unicode": "🈸"
+  },
+  "1f973": {
+    "index": 764,
+    "unicode": "🥳"
+  },
+  "1f449": {
+    "index": 765,
+    "unicode": "👉"
+  },
+  "1f401": {
+    "index": 766,
+    "unicode": "🐁"
+  },
+  "1f377": {
+    "index": 767,
+    "unicode": "🍷"
+  },
+  "1f6ec": {
+    "index": 768,
+    "unicode": "🛬"
+  },
+  "1f6bb": {
+    "index": 769,
+    "unicode": "🚻"
+  },
+  "1f990": {
+    "index": 770,
+    "unicode": "🦐"
+  },
+  "1f3af": {
+    "index": 771,
+    "unicode": "🎯"
+  },
+  "274e": {
+    "index": 772,
+    "unicode": "❎"
+  },
+  "1f366": {
+    "index": 773,
+    "unicode": "🍦"
+  },
+  "1f307": {
+    "index": 774,
+    "unicode": "🌇"
+  },
+  "1f9f0": {
+    "index": 775,
+    "unicode": "🧰"
+  },
+  "1fa93": {
+    "index": 776,
+    "unicode": "🪓"
+  },
+  "1fad4": {
+    "index": 777,
+    "unicode": "🫔"
+  },
+  "1f372": {
+    "index": 778,
+    "unicode": "🍲"
+  },
+  "1f567": {
+    "index": 779,
+    "unicode": "🕧"
+  },
+  "1f94c": {
+    "index": 780,
+    "unicode": "🥌"
+  },
+  "1f41f": {
+    "index": 781,
+    "unicode": "🐟"
+  },
+  "1f933": {
+    "index": 782,
+    "unicode": "🤳"
+  },
+  "1f9e9": {
+    "index": 783,
+    "unicode": "🧩"
+  },
+  "1f491": {
+    "index": 784,
+    "unicode": "💑"
+  },
+  "1f9b9": {
+    "index": 785,
+    "unicode": "🦹"
+  },
+  "1f389": {
+    "index": 786,
+    "unicode": "🎉"
+  },
+  "1f952": {
+    "index": 787,
+    "unicode": "🥒"
+  },
+  "1f684": {
+    "index": 788,
+    "unicode": "🚄"
+  },
+  "1f3ec": {
+    "index": 789,
+    "unicode": "🏬"
+  },
+  "1f616": {
+    "index": 790,
+    "unicode": "😖"
+  },
+  "1f44e": {
+    "index": 791,
+    "unicode": "👎"
+  },
+  "1f4b8": {
+    "index": 792,
+    "unicode": "💸"
+  },
+  "1f97d": {
+    "index": 793,
+    "unicode": "🥽"
+  },
+  "1f93c": {
+    "index": 794,
+    "unicode": "🤼"
+  },
+  "1f55d": {
+    "index": 795,
+    "unicode": "🕝"
+  },
+  "1f620": {
+    "index": 796,
+    "unicode": "😠"
+  },
+  "1f4c8": {
+    "index": 797,
+    "unicode": "📈"
+  },
+  "1f52c": {
+    "index": 798,
+    "unicode": "🔬"
+  },
+  "1f465": {
+    "index": 799,
+    "unicode": "👥"
+  },
+  "1f9ce": {
+    "index": 800,
+    "unicode": "🧎"
+  },
+  "1fa73": {
+    "index": 801,
+    "unicode": "🩳"
+  },
+  "1f945": {
+    "index": 802,
+    "unicode": "🥅"
+  },
+  "1f48e": {
+    "index": 803,
+    "unicode": "💎"
+  },
+  "1f62a": {
+    "index": 804,
+    "unicode": "😪"
+  },
+  "1f338": {
+    "index": 805,
+    "unicode": "🌸"
+  },
+  "1f531": {
+    "index": 806,
+    "unicode": "🔱"
+  },
+  "1f375": {
+    "index": 807,
+    "unicode": "🍵"
+  },
+  "1faa5": {
+    "index": 808,
+    "unicode": "🪥"
+  },
+  "1f9ca": {
+    "index": 809,
+    "unicode": "🧊"
+  },
+  "1f387": {
+    "index": 810,
+    "unicode": "🎇"
+  },
+  "1f3c1": {
+    "index": 811,
+    "unicode": "🏁"
+  },
+  "1f9cd": {
+    "index": 812,
+    "unicode": "🧍"
+  },
+  "1f4d5": {
+    "index": 813,
+    "unicode": "📕"
+  },
+  "1f965": {
+    "index": 814,
+    "unicode": "🥥"
+  },
+  "1f350": {
+    "index": 815,
+    "unicode": "🍐"
+  },
+  "1f645": {
+    "index": 816,
+    "unicode": "🙅"
+  },
+  "1f4e2": {
+    "index": 817,
+    "unicode": "📢"
+  },
+  "1f92a": {
+    "index": 818,
+    "unicode": "🤪"
+  },
+  "1fa85": {
+    "index": 819,
+    "unicode": "🪅"
+  },
+  "1f6a8": {
+    "index": 820,
+    "unicode": "🚨"
+  },
+  "1f18e": {
+    "index": 821,
+    "unicode": "🆎"
+  },
+  "1f3cf": {
+    "index": 822,
+    "unicode": "🏏"
+  },
+  "1f30f": {
+    "index": 823,
+    "unicode": "🌏"
+  },
+  "26aa": {
+    "index": 824,
+    "unicode": "⚪"
+  },
+  "1f5a4": {
+    "index": 825,
+    "unicode": "🖤"
+  },
+  "1f31e": {
+    "index": 826,
+    "unicode": "🌞"
+  },
+  "1f983": {
+    "index": 827,
+    "unicode": "🦃"
+  },
+  "1f9ab": {
+    "index": 828,
+    "unicode": "🦫"
+  },
+  "1fa9f": {
+    "index": 829,
+    "unicode": "🪟"
+  },
+  "1f3e9": {
+    "index": 830,
+    "unicode": "🏩"
+  },
+  "1f400": {
+    "index": 831,
+    "unicode": "🐀"
+  },
+  "1f483": {
+    "index": 832,
+    "unicode": "💃"
+  },
+  "1f68f": {
+    "index": 833,
+    "unicode": "🚏"
+  },
+  "1f9ba": {
+    "index": 834,
+    "unicode": "🦺"
+  },
+  "1f358": {
+    "index": 835,
+    "unicode": "🍘"
+  },
+  "1fa83": {
+    "index": 836,
+    "unicode": "🪃"
+  },
+  "1f32d": {
+    "index": 837,
+    "unicode": "🌭"
+  },
+  "1f4a9": {
+    "index": 838,
+    "unicode": "💩"
+  },
+  "231b": {
+    "index": 839,
+    "unicode": "⌛"
+  },
+  "1f312": {
+    "index": 840,
+    "unicode": "🌒"
+  },
+  "1f969": {
+    "index": 841,
+    "unicode": "🥩"
+  },
+  "1f625": {
+    "index": 842,
+    "unicode": "😥"
+  },
+  "1f69b": {
+    "index": 843,
+    "unicode": "🚛"
+  },
+  "1f4a6": {
+    "index": 844,
+    "unicode": "💦"
+  },
+  "1f454": {
+    "index": 845,
+    "unicode": "👔"
+  },
+  "1f9bb": {
+    "index": 846,
+    "unicode": "🦻"
+  },
+  "1f6a2": {
+    "index": 847,
+    "unicode": "🚢"
+  },
+  "1f926": {
+    "index": 848,
+    "unicode": "🤦"
+  },
+  "1f3b1": {
+    "index": 849,
+    "unicode": "🎱"
+  },
+  "1f64e": {
+    "index": 850,
+    "unicode": "🙎"
+  },
+  "1f443": {
+    "index": 851,
+    "unicode": "👃"
+  },
+  "1f3a5": {
+    "index": 852,
+    "unicode": "🎥"
+  },
+  "1f524": {
+    "index": 853,
+    "unicode": "🔤"
+  },
+  "1f482": {
+    "index": 854,
+    "unicode": "💂"
+  },
+  "1f472": {
+    "index": 855,
+    "unicode": "👲"
+  },
+  "1f373": {
+    "index": 856,
+    "unicode": "🍳"
+  },
+  "1f3a3": {
+    "index": 857,
+    "unicode": "🎣"
+  },
+  "1f510": {
+    "index": 858,
+    "unicode": "🔐"
+  },
+  "1f004": {
+    "index": 859,
+    "unicode": "🀄"
+  },
+  "1fa90": {
+    "index": 860,
+    "unicode": "🪐"
+  },
+  "1f551": {
+    "index": 861,
+    "unicode": "🕑"
+  },
+  "1f956": {
+    "index": 862,
+    "unicode": "🥖"
+  },
+  "1f3c8": {
+    "index": 863,
+    "unicode": "🏈"
+  },
+  "1f98a": {
+    "index": 864,
+    "unicode": "🦊"
+  },
+  "1f530": {
+    "index": 865,
+    "unicode": "🔰"
+  },
+  "1f44f": {
+    "index": 866,
+    "unicode": "👏"
+  },
+  "1f958": {
+    "index": 867,
+    "unicode": "🥘"
+  },
+  "1f94b": {
+    "index": 868,
+    "unicode": "🥋"
+  },
+  "1f47c": {
+    "index": 869,
+    "unicode": "👼"
+  },
+  "1f428": {
+    "index": 870,
+    "unicode": "🐨"
+  },
+  "1f382": {
+    "index": 871,
+    "unicode": "🎂"
+  },
+  "1f42b": {
+    "index": 872,
+    "unicode": "🐫"
+  },
+  "1f6f9": {
+    "index": 873,
+    "unicode": "🛹"
+  },
+  "1f930": {
+    "index": 874,
+    "unicode": "🤰"
+  },
+  "1f4fc": {
+    "index": 875,
+    "unicode": "📼"
+  },
+  "1f682": {
+    "index": 876,
+    "unicode": "🚂"
+  },
+  "1f515": {
+    "index": 877,
+    "unicode": "🔕"
+  },
+  "1f935": {
+    "index": 878,
+    "unicode": "🤵"
+  },
+  "1f529": {
+    "index": 879,
+    "unicode": "🔩"
+  },
+  "1f9a7": {
+    "index": 880,
+    "unicode": "🦧"
+  },
+  "1f6bf": {
+    "index": 881,
+    "unicode": "🚿"
+  },
+  "1f45e": {
+    "index": 882,
+    "unicode": "👞"
+  },
+  "1f7e6": {
+    "index": 883,
+    "unicode": "🟦"
+  },
+  "1f9e1": {
+    "index": 884,
+    "unicode": "🧡"
+  },
+  "1f368": {
+    "index": 885,
+    "unicode": "🍨"
+  },
+  "1f4f2": {
+    "index": 886,
+    "unicode": "📲"
+  },
+  "1f566": {
+    "index": 887,
+    "unicode": "🕦"
+  },
+  "1f438": {
+    "index": 888,
+    "unicode": "🐸"
+  },
+  "1f33d": {
+    "index": 889,
+    "unicode": "🌽"
+  },
+  "1f4f4": {
+    "index": 890,
+    "unicode": "📴"
+  },
+  "1f357": {
+    "index": 891,
+    "unicode": "🍗"
+  },
+  "1fa9c": {
+    "index": 892,
+    "unicode": "🪜"
+  },
+  "1f9b8": {
+    "index": 893,
+    "unicode": "🦸"
+  },
+  "23eb": {
+    "index": 894,
+    "unicode": "⏫"
+  },
+  "1f963": {
+    "index": 895,
+    "unicode": "🥣"
+  },
+  "1f98b": {
+    "index": 896,
+    "unicode": "🦋"
+  },
+  "1f6ab": {
+    "index": 897,
+    "unicode": "🚫"
+  },
+  "1f6b7": {
+    "index": 898,
+    "unicode": "🚷"
+  },
+  "1f448": {
+    "index": 899,
+    "unicode": "👈"
+  },
+  "1f49f": {
+    "index": 900,
+    "unicode": "💟"
+  },
+  "27b0": {
+    "index": 901,
+    "unicode": "➰"
+  },
+  "1f634": {
+    "index": 902,
+    "unicode": "😴"
+  },
+  "1f5ff": {
+    "index": 903,
+    "unicode": "🗿"
+  },
+  "1f60c": {
+    "index": 904,
+    "unicode": "😌"
+  },
+  "1f9b6": {
+    "index": 905,
+    "unicode": "🦶"
+  },
+  "1f330": {
+    "index": 906,
+    "unicode": "🌰"
+  },
+  "1f388": {
+    "index": 907,
+    "unicode": "🎈"
+  },
+  "1f3ba": {
+    "index": 908,
+    "unicode": "🎺"
+  },
+  "1f981": {
+    "index": 909,
+    "unicode": "🦁"
+  },
+  "1f195": {
+    "index": 910,
+    "unicode": "🆕"
+  },
+  "1f982": {
+    "index": 911,
+    "unicode": "🦂"
+  },
+  "25fe": {
+    "index": 912,
+    "unicode": "◾"
+  },
+  "1f421": {
+    "index": 913,
+    "unicode": "🐡"
+  },
+  "1f4f3": {
+    "index": 914,
+    "unicode": "📳"
+  },
+  "26ea": {
+    "index": 915,
+    "unicode": "⛪"
+  },
+  "1f498": {
+    "index": 916,
+    "unicode": "💘"
+  },
+  "1f4b0": {
+    "index": 917,
+    "unicode": "💰"
+  },
+  "1f640": {
+    "index": 918,
+    "unicode": "🙀"
+  },
+  "1faa4": {
+    "index": 919,
+    "unicode": "🪤"
+  },
+  "1f950": {
+    "index": 920,
+    "unicode": "🥐"
+  },
+  "1f478": {
+    "index": 921,
+    "unicode": "👸"
+  },
+  "1f471": {
+    "index": 922,
+    "unicode": "👱"
+  },
+  "1f521": {
+    "index": 923,
+    "unicode": "🔡"
+  },
+  "1f33a": {
+    "index": 924,
+    "unicode": "🌺"
+  },
+  "1f961": {
+    "index": 925,
+    "unicode": "🥡"
+  },
+  "1f9d2": {
+    "index": 926,
+    "unicode": "🧒"
+  },
+  "1f239": {
+    "index": 927,
+    "unicode": "🈹"
+  },
+  "1f334": {
+    "index": 928,
+    "unicode": "🌴"
+  },
+  "1f3ca": {
+    "index": 929,
+    "unicode": "🏊"
+  },
+  "1f9aa": {
+    "index": 930,
+    "unicode": "🦪"
+  },
+  "1f957": {
+    "index": 931,
+    "unicode": "🥗"
+  },
+  "1f3c9": {
+    "index": 932,
+    "unicode": "🏉"
+  },
+  "1f194": {
+    "index": 933,
+    "unicode": "🆔"
+  },
+  "1f42f": {
+    "index": 934,
+    "unicode": "🐯"
+  },
+  "1f4e7": {
+    "index": 935,
+    "unicode": "📧"
+  },
+  "1f332": {
+    "index": 936,
+    "unicode": "🌲"
+  },
+  "1f940": {
+    "index": 937,
+    "unicode": "🥀"
+  },
+  "1f998": {
+    "index": 938,
+    "unicode": "🦘"
+  },
+  "1f444": {
+    "index": 939,
+    "unicode": "👄"
+  },
+  "1f596": {
+    "index": 940,
+    "unicode": "🖖"
+  },
+  "1f342": {
+    "index": 941,
+    "unicode": "🍂"
+  },
+  "1f4b2": {
+    "index": 942,
+    "unicode": "💲"
+  },
+  "1f61b": {
+    "index": 943,
+    "unicode": "😛"
+  },
+  "1fa99": {
+    "index": 944,
+    "unicode": "🪙"
+  },
+  "1f4c4": {
+    "index": 945,
+    "unicode": "📄"
+  },
+  "1f538": {
+    "index": 946,
+    "unicode": "🔸"
+  },
+  "1f92d": {
+    "index": 947,
+    "unicode": "🤭"
+  },
+  "1f447": {
+    "index": 948,
+    "unicode": "👇"
+  },
+  "1f6af": {
+    "index": 949,
+    "unicode": "🚯"
+  },
+  "1f40f": {
+    "index": 950,
+    "unicode": "🐏"
+  },
+  "1f4cf": {
+    "index": 951,
+    "unicode": "📏"
+  },
+  "1f508": {
+    "index": 952,
+    "unicode": "🔈"
+  },
+  "1f920": {
+    "index": 953,
+    "unicode": "🤠"
+  },
+  "1f517": {
+    "index": 954,
+    "unicode": "🔗"
+  },
+  "1f3e2": {
+    "index": 955,
+    "unicode": "🏢"
+  },
+  "1f320": {
+    "index": 956,
+    "unicode": "🌠"
+  },
+  "1f4df": {
+    "index": 957,
+    "unicode": "📟"
+  },
+  "1fad6": {
+    "index": 958,
+    "unicode": "🫖"
+  },
+  "1f45c": {
+    "index": 959,
+    "unicode": "👜"
+  },
+  "1f97f": {
+    "index": 960,
+    "unicode": "🥿"
+  },
+  "1f972": {
+    "index": 961,
+    "unicode": "🥲"
+  },
+  "1f9a1": {
+    "index": 962,
+    "unicode": "🦡"
+  },
+  "1f6bc": {
+    "index": 963,
+    "unicode": "🚼"
+  },
+  "1f3bc": {
+    "index": 964,
+    "unicode": "🎼"
+  },
+  "1f955": {
+    "index": 965,
+    "unicode": "🥕"
+  },
+  "1f3bf": {
+    "index": 966,
+    "unicode": "🎿"
+  },
+  "1f353": {
+    "index": 967,
+    "unicode": "🍓"
+  },
+  "1f236": {
+    "index": 968,
+    "unicode": "🈶"
+  },
+  "1f644": {
+    "index": 969,
+    "unicode": "🙄"
+  },
+  "1f90f": {
+    "index": 970,
+    "unicode": "🤏"
+  },
+  "1f4f6": {
+    "index": 971,
+    "unicode": "📶"
+  },
+  "1f4b5": {
+    "index": 972,
+    "unicode": "💵"
+  },
+  "1f6fc": {
+    "index": 973,
+    "unicode": "🛼"
+  },
+  "1f50d": {
+    "index": 974,
+    "unicode": "🔍"
+  },
+  "1f699": {
+    "index": 975,
+    "unicode": "🚙"
+  },
+  "1f3b0": {
+    "index": 976,
+    "unicode": "🎰"
+  },
+  "1f452": {
+    "index": 977,
+    "unicode": "👒"
+  },
+  "26c4": {
+    "index": 978,
+    "unicode": "⛄"
+  },
+  "1f611": {
+    "index": 979,
+    "unicode": "😑"
+  },
+  "1f7eb": {
+    "index": 980,
+    "unicode": "🟫"
+  },
+  "1f4dc": {
+    "index": 981,
+    "unicode": "📜"
+  },
+  "26a1": {
+    "index": 982,
+    "unicode": "⚡"
+  },
+  "1f47b": {
+    "index": 983,
+    "unicode": "👻"
+  },
+  "1f960": {
+    "index": 984,
+    "unicode": "🥠"
+  },
+  "1f63b": {
+    "index": 985,
+    "unicode": "😻"
+  },
+  "1f69c": {
+    "index": 986,
+    "unicode": "🚜"
+  },
+  "1f439": {
+    "index": 987,
+    "unicode": "🐹"
+  },
+  "1f4ce": {
+    "index": 988,
+    "unicode": "📎"
+  },
+  "1f914": {
+    "index": 989,
+    "unicode": "🤔"
+  },
+  "1f98e": {
+    "index": 990,
+    "unicode": "🦎"
+  },
+  "1f4d1": {
+    "index": 991,
+    "unicode": "📑"
+  },
+  "1f54c": {
+    "index": 992,
+    "unicode": "🕌"
+  },
+  "1f99a": {
+    "index": 993,
+    "unicode": "🦚"
+  },
+  "1f3c0": {
+    "index": 994,
+    "unicode": "🏀"
+  },
+  "1f9f6": {
+    "index": 995,
+    "unicode": "🧶"
+  },
+  "1f63e": {
+    "index": 996,
+    "unicode": "😾"
+  },
+  "1f4d8": {
+    "index": 997,
+    "unicode": "📘"
+  },
+  "1f93f": {
+    "index": 998,
+    "unicode": "🤿"
+  },
+  "1f4e1": {
+    "index": 999,
+    "unicode": "📡"
+  },
+  "1f40b": {
+    "index": 1000,
+    "unicode": "🐋"
+  },
+  "1f9ef": {
+    "index": 1001,
+    "unicode": "🧯"
+  },
+  "1f347": {
+    "index": 1002,
+    "unicode": "🍇"
+  },
+  "1f314": {
+    "index": 1003,
+    "unicode": "🌔"
+  },
+  "1f504": {
+    "index": 1004,
+    "unicode": "🔄"
+  },
+  "1fa70": {
+    "index": 1005,
+    "unicode": "🩰"
+  },
+  "1f9e3": {
+    "index": 1006,
+    "unicode": "🧣"
+  },
+  "1f9b5": {
+    "index": 1007,
+    "unicode": "🦵"
+  },
+  "1f9b2": {
+    "index": 1008,
+    "unicode": "🦲"
+  },
+  "1f419": {
+    "index": 1009,
+    "unicode": "🐙"
+  },
+  "1f615": {
+    "index": 1010,
+    "unicode": "😕"
+  },
+  "1f376": {
+    "index": 1011,
+    "unicode": "🍶"
+  },
+  "1f3c4": {
+    "index": 1012,
+    "unicode": "🏄"
   },
   "1f554": {
     "index": 1013,
     "unicode": "🕔"
   },
-  "1f628": {
+  "1f4d3": {
     "index": 1014,
-    "unicode": "😨"
+    "unicode": "📓"
   },
-  "1f4f8": {
+  "1f4e6": {
     "index": 1015,
-    "unicode": "📸"
+    "unicode": "📦"
   },
-  "1f9d1": {
+  "1f46e": {
     "index": 1016,
-    "unicode": "🧑"
+    "unicode": "👮"
+  },
+  "1f4ed": {
+    "index": 1017,
+    "unicode": "📭"
   },
   "1f9dc": {
-    "index": 1017,
+    "index": 1018,
     "unicode": "🧜"
   },
-  "1f634": {
-    "index": 1018,
-    "unicode": "😴"
-  },
-  "1f3c7": {
+  "1f951": {
     "index": 1019,
-    "unicode": "🏇"
+    "unicode": "🥑"
   },
-  "1f9ba": {
+  "1f3a4": {
     "index": 1020,
-    "unicode": "🦺"
+    "unicode": "🎤"
   },
-  "1f937": {
+  "1f99c": {
     "index": 1021,
-    "unicode": "🤷"
+    "unicode": "🦜"
   },
-  "1f7eb": {
+  "1f559": {
     "index": 1022,
-    "unicode": "🟫"
+    "unicode": "🕙"
   },
-  "1f934": {
+  "1f362": {
     "index": 1023,
-    "unicode": "🤴"
-  },
-  "1f94b": {
-    "index": 1024,
-    "unicode": "🥋"
-  },
-  "1f936": {
-    "index": 1025,
-    "unicode": "🤶"
-  },
-  "1f51c": {
-    "index": 1026,
-    "unicode": "🔜"
-  },
-  "1f191": {
-    "index": 1027,
-    "unicode": "🆑"
-  },
-  "1f374": {
-    "index": 1028,
-    "unicode": "🍴"
-  },
-  "1fa83": {
-    "index": 1029,
-    "unicode": "🪃"
-  },
-  "1f54c": {
-    "index": 1030,
-    "unicode": "🕌"
-  },
-  "23eb": {
-    "index": 1031,
-    "unicode": "⏫"
-  },
-  "1f42d": {
-    "index": 1032,
-    "unicode": "🐭"
-  },
-  "1f5fd": {
-    "index": 1033,
-    "unicode": "🗽"
-  },
-  "1f52a": {
-    "index": 1034,
-    "unicode": "🔪"
-  },
-  "1f984": {
-    "index": 1035,
-    "unicode": "🦄"
-  },
-  "1f41d": {
-    "index": 1036,
-    "unicode": "🐝"
-  },
-  "1f4a8": {
-    "index": 1037,
-    "unicode": "💨"
-  },
-  "1f38b": {
-    "index": 1038,
-    "unicode": "🎋"
-  },
-  "1f52b": {
-    "index": 1039,
-    "unicode": "🔫"
-  },
-  "1f96f": {
-    "index": 1040,
-    "unicode": "🥯"
-  },
-  "1f41a": {
-    "index": 1041,
-    "unicode": "🐚"
-  },
-  "1f4ff": {
-    "index": 1042,
-    "unicode": "📿"
-  },
-  "1f51e": {
-    "index": 1043,
-    "unicode": "🔞"
-  },
-  "1f519": {
-    "index": 1044,
-    "unicode": "🔙"
-  },
-  "1f37b": {
-    "index": 1045,
-    "unicode": "🍻"
-  },
-  "1f91a": {
-    "index": 1046,
-    "unicode": "🤚"
-  },
-  "1f522": {
-    "index": 1047,
-    "unicode": "🔢"
-  },
-  "1f201": {
-    "index": 1048,
-    "unicode": "🈁"
-  },
-  "1f55b": {
-    "index": 1049,
-    "unicode": "🕛"
-  },
-  "1f689": {
-    "index": 1050,
-    "unicode": "🚉"
-  },
-  "2649": {
-    "index": 1051,
-    "unicode": "♉"
-  },
-  "1f962": {
-    "index": 1052,
-    "unicode": "🥢"
-  },
-  "1f9c0": {
-    "index": 1053,
-    "unicode": "🧀"
-  },
-  "1f45b": {
-    "index": 1054,
-    "unicode": "👛"
-  },
-  "1f7e6": {
-    "index": 1055,
-    "unicode": "🟦"
-  },
-  "1f4ea": {
-    "index": 1056,
-    "unicode": "📪"
-  },
-  "1f4a2": {
-    "index": 1057,
-    "unicode": "💢"
-  },
-  "1f6ae": {
-    "index": 1058,
-    "unicode": "🚮"
-  },
-  "1f520": {
-    "index": 1059,
-    "unicode": "🔠"
-  },
-  "1f989": {
-    "index": 1060,
-    "unicode": "🦉"
-  },
-  "2b55": {
-    "index": 1061,
-    "unicode": "⭕"
-  },
-  "1f6b2": {
-    "index": 1062,
-    "unicode": "🚲"
-  },
-  "1f914": {
-    "index": 1063,
-    "unicode": "🤔"
-  },
-  "1f966": {
-    "index": 1064,
-    "unicode": "🥦"
-  },
-  "1f4b2": {
-    "index": 1065,
-    "unicode": "💲"
-  },
-  "1f64c": {
-    "index": 1066,
-    "unicode": "🙌"
-  },
-  "1f647": {
-    "index": 1067,
-    "unicode": "🙇"
-  },
-  "1f9f5": {
-    "index": 1068,
-    "unicode": "🧵"
-  },
-  "1f444": {
-    "index": 1069,
-    "unicode": "👄"
-  },
-  "1f940": {
-    "index": 1070,
-    "unicode": "🥀"
-  },
-  "1f464": {
-    "index": 1071,
-    "unicode": "👤"
-  },
-  "26fa": {
-    "index": 1072,
-    "unicode": "⛺"
-  },
-  "1f95d": {
-    "index": 1073,
-    "unicode": "🥝"
-  },
-  "1f4a6": {
-    "index": 1074,
-    "unicode": "💦"
-  },
-  "1f953": {
-    "index": 1075,
-    "unicode": "🥓"
-  },
-  "1f4c1": {
-    "index": 1076,
-    "unicode": "📁"
-  },
-  "1f465": {
-    "index": 1077,
-    "unicode": "👥"
-  },
-  "1f699": {
-    "index": 1078,
-    "unicode": "🚙"
+    "unicode": "🍢"
   },
   "1f435": {
-    "index": 1079,
+    "index": 1024,
     "unicode": "🐵"
   },
-  "1f98e": {
-    "index": 1080,
-    "unicode": "🦎"
+  "1f35b": {
+    "index": 1025,
+    "unicode": "🍛"
   },
-  "1f55c": {
-    "index": 1081,
-    "unicode": "🕜"
+  "1f386": {
+    "index": 1026,
+    "unicode": "🎆"
   },
-  "1fab1": {
-    "index": 1082,
-    "unicode": "🪱"
+  "1f4b9": {
+    "index": 1027,
+    "unicode": "💹"
   },
-  "1f611": {
-    "index": 1083,
-    "unicode": "😑"
+  "1f94a": {
+    "index": 1028,
+    "unicode": "🥊"
   },
-  "1f434": {
-    "index": 1084,
-    "unicode": "🐴"
+  "1f4f7": {
+    "index": 1029,
+    "unicode": "📷"
   },
-  "1f95f": {
-    "index": 1085,
-    "unicode": "🥟"
+  "1f380": {
+    "index": 1030,
+    "unicode": "🎀"
   },
-  "1f9fc": {
-    "index": 1086,
-    "unicode": "🧼"
+  "1f6d0": {
+    "index": 1031,
+    "unicode": "🛐"
   },
-  "1f4b5": {
-    "index": 1087,
-    "unicode": "💵"
+  "1fa78": {
+    "index": 1032,
+    "unicode": "🩸"
   },
-  "1f3d2": {
-    "index": 1088,
-    "unicode": "🏒"
+  "26ab": {
+    "index": 1033,
+    "unicode": "⚫"
   },
-  "1f4c2": {
-    "index": 1089,
-    "unicode": "📂"
+  "1f44b": {
+    "index": 1034,
+    "unicode": "👋"
   },
-  "1f98b": {
-    "index": 1090,
-    "unicode": "🦋"
+  "1f4e5": {
+    "index": 1035,
+    "unicode": "📥"
   },
-  "1f93f": {
-    "index": 1091,
-    "unicode": "🤿"
+  "1f939": {
+    "index": 1036,
+    "unicode": "🤹"
   },
-  "1f351": {
-    "index": 1092,
-    "unicode": "🍑"
+  "26ce": {
+    "index": 1037,
+    "unicode": "⛎"
   },
-  "1f4e8": {
-    "index": 1093,
-    "unicode": "📨"
+  "1f440": {
+    "index": 1038,
+    "unicode": "👀"
   },
-  "1f348": {
-    "index": 1094,
-    "unicode": "🍈"
+  "1f302": {
+    "index": 1039,
+    "unicode": "🌂"
   },
-  "1f45c": {
-    "index": 1095,
-    "unicode": "👜"
+  "1f9e6": {
+    "index": 1040,
+    "unicode": "🧦"
   },
-  "1f446": {
-    "index": 1096,
-    "unicode": "👆"
+  "1f4d2": {
+    "index": 1041,
+    "unicode": "📒"
+  },
+  "1f496": {
+    "index": 1042,
+    "unicode": "💖"
+  },
+  "1f430": {
+    "index": 1043,
+    "unicode": "🐰"
+  },
+  "1f406": {
+    "index": 1044,
+    "unicode": "🐆"
+  },
+  "1f36d": {
+    "index": 1045,
+    "unicode": "🍭"
+  },
+  "1f404": {
+    "index": 1046,
+    "unicode": "🐄"
+  },
+  "1f637": {
+    "index": 1047,
+    "unicode": "😷"
+  },
+  "1f994": {
+    "index": 1048,
+    "unicode": "🦔"
+  },
+  "1f22f": {
+    "index": 1049,
+    "unicode": "🈯"
+  },
+  "1f192": {
+    "index": 1050,
+    "unicode": "🆒"
   },
   "1f558": {
-    "index": 1097,
+    "index": 1051,
     "unicode": "🕘"
+  },
+  "1f64c": {
+    "index": 1052,
+    "unicode": "🙌"
+  },
+  "1f9c5": {
+    "index": 1053,
+    "unicode": "🧅"
+  },
+  "1fa84": {
+    "index": 1054,
+    "unicode": "🪄"
+  },
+  "1f7e0": {
+    "index": 1055,
+    "unicode": "🟠"
+  },
+  "1faa7": {
+    "index": 1056,
+    "unicode": "🪧"
+  },
+  "1f693": {
+    "index": 1057,
+    "unicode": "🚓"
+  },
+  "1f690": {
+    "index": 1058,
+    "unicode": "🚐"
+  },
+  "1f41c": {
+    "index": 1059,
+    "unicode": "🐜"
+  },
+  "1fa96": {
+    "index": 1060,
+    "unicode": "🪖"
+  },
+  "1f473": {
+    "index": 1061,
+    "unicode": "👳"
+  },
+  "1f4a2": {
+    "index": 1062,
+    "unicode": "💢"
+  },
+  "1f493": {
+    "index": 1063,
+    "unicode": "💓"
+  },
+  "1f9a2": {
+    "index": 1064,
+    "unicode": "🦢"
+  },
+  "1f4eb": {
+    "index": 1065,
+    "unicode": "📫"
+  },
+  "1f490": {
+    "index": 1066,
+    "unicode": "💐"
+  },
+  "1f3b9": {
+    "index": 1067,
+    "unicode": "🎹"
+  },
+  "1f6ac": {
+    "index": 1068,
+    "unicode": "🚬"
+  },
+  "1f33e": {
+    "index": 1069,
+    "unicode": "🌾"
+  },
+  "1fa92": {
+    "index": 1070,
+    "unicode": "🪒"
+  },
+  "1f9cb": {
+    "index": 1071,
+    "unicode": "🧋"
+  },
+  "1f63d": {
+    "index": 1072,
+    "unicode": "😽"
+  },
+  "1f927": {
+    "index": 1073,
+    "unicode": "🤧"
+  },
+  "1f91e": {
+    "index": 1074,
+    "unicode": "🤞"
+  },
+  "1f3b7": {
+    "index": 1075,
+    "unicode": "🎷"
+  },
+  "1f46a": {
+    "index": 1076,
+    "unicode": "👪"
+  },
+  "1f464": {
+    "index": 1077,
+    "unicode": "👤"
+  },
+  "2797": {
+    "index": 1078,
+    "unicode": "➗"
+  },
+  "1f9c2": {
+    "index": 1079,
+    "unicode": "🧂"
+  },
+  "1f43a": {
+    "index": 1080,
+    "unicode": "🐺"
+  },
+  "1f344": {
+    "index": 1081,
+    "unicode": "🍄"
+  },
+  "1f436": {
+    "index": 1082,
+    "unicode": "🐶"
+  },
+  "1f911": {
+    "index": 1083,
+    "unicode": "🤑"
+  },
+  "1f4ff": {
+    "index": 1084,
+    "unicode": "📿"
+  },
+  "1f466": {
+    "index": 1085,
+    "unicode": "👦"
+  },
+  "1f47f": {
+    "index": 1086,
+    "unicode": "👿"
+  },
+  "1f9da": {
+    "index": 1087,
+    "unicode": "🧚"
+  },
+  "1f36e": {
+    "index": 1088,
+    "unicode": "🍮"
+  },
+  "1f4fb": {
+    "index": 1089,
+    "unicode": "📻"
+  },
+  "1f924": {
+    "index": 1090,
+    "unicode": "🤤"
+  },
+  "1f622": {
+    "index": 1091,
+    "unicode": "😢"
+  },
+  "1f9bd": {
+    "index": 1092,
+    "unicode": "🦽"
+  },
+  "1f4c7": {
+    "index": 1093,
+    "unicode": "📇"
+  },
+  "1f9b0": {
+    "index": 1094,
+    "unicode": "🦰"
+  },
+  "1f533": {
+    "index": 1095,
+    "unicode": "🔳"
+  },
+  "1f97c": {
+    "index": 1096,
+    "unicode": "🥼"
+  },
+  "1f360": {
+    "index": 1097,
+    "unicode": "🍠"
   }
 }
