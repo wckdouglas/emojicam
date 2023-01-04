@@ -1,18 +1,11 @@
-from time import sleep
+import logging
+import time
 
 import cv2
-from flask import (
-    Flask,
-    Response,
-    jsonify,
-    render_template,
-    request,
-    stream_with_context,
-    url_for,
-)
-from skimage import io
+from flask import Flask, jsonify, render_template
 from webcam_filter import apply_filter
 
+logging.basicConfig(level=logging.INFO)
 app = Flask(__name__, template_folder="./templates")
 
 
@@ -34,7 +27,9 @@ def stream_video():
 
 def stream_emoji():
     for frame in stream_video():
+        start = time.time()
         yield "\n".join(apply_filter(frame, debug=False))
+        logging.info(f"Generated figure in {time.time() - start}s")
 
 
 @app.route("/_stream")
