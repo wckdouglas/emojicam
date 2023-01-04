@@ -1,7 +1,18 @@
 <!doctype html>
 
-<title> Video </title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-{% if processed_string %}
-<p id="text">{{ processed_string }}</p>
-{% endif %}
+<script type="text/javascript">
+    $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+
+    function poll () { 
+        $.getJSON($SCRIPT_ROOT + '/_stream', {}, function(data) {
+            $("#img").css({ 'white-space': 'pre' }).text(data.img);
+            poll();
+        });
+    };
+
+    $(function () {poll()});
+</script>
+
+<span id=img></span>
